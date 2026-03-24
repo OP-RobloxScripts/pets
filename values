@@ -1196,7 +1196,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Hummingbird",
-        "score": 133,
+        "score": 132,
         "id": 39
     }, {
         "image": "/images/pets/Snowball Pet.png",
@@ -2306,7 +2306,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Elasmosaurus",
-        "score": 118,
+        "score": 117,
         "id": 76
     }, {
         "image": "/images/pets/Rooster.png",
@@ -2516,7 +2516,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Indian Flying Fox",
-        "score": 126,
+        "score": 125,
         "id": 83
     }, {
         "image": "/images/pets/Magma Moose.png",
@@ -2756,7 +2756,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Headless Horse",
-        "score": 120,
+        "score": 119,
         "id": 91
     }, {
         "image": "/images/pets/Fanghorn Tortoise.png",
@@ -2786,7 +2786,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Fanghorn Tortoise",
-        "score": 119,
+        "score": 118,
         "id": 92
     }, {
         "image": "/images/pets/Bauble Buddies.png",
@@ -2816,7 +2816,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Bauble Buddies",
-        "score": 132,
+        "score": 131,
         "id": 93
     }, {
         "image": "/images/pets/Rice Cake Rabbit.png",
@@ -2996,7 +2996,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Wildfire Hawk",
-        "score": 130,
+        "score": 129,
         "id": 99
     }, {
         "image": "/images/pets/Burning Bunny.png",
@@ -3086,7 +3086,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Gingerbread Reindeer",
-        "score": 125,
+        "score": 124,
         "id": 102
     }, {
         "image": "/images/pets/Zombie Wolf.png",
@@ -3416,7 +3416,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Albatross",
-        "score": 114,
+        "score": 113,
         "id": 113
     }, {
         "image": "/images/pets/Puffer Fish.png",
@@ -3476,7 +3476,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Starfish",
-        "score": 117,
+        "score": 116,
         "id": 115
     }, {
         "image": "/images/pets/Golden Jaguar.png",
@@ -3506,7 +3506,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Golden Jaguar",
-        "score": 131,
+        "score": 130,
         "id": 116
     }, {
         "image": "/images/pets/Cold Cube.png",
@@ -3866,7 +3866,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Sloth",
-        "score": 128,
+        "score": 127,
         "id": 128
     }, {
         "image": "/images/pets/King Penguin.png",
@@ -4106,7 +4106,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Clownfish",
-        "score": 115,
+        "score": 114,
         "id": 136
     }, {
         "image": "/images/pets/Seagull.png",
@@ -4136,7 +4136,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Seagull",
-        "score": 116,
+        "score": 115,
         "id": 137
     }, {
         "image": "/images/pets/Pink Betta Fish.png",
@@ -6587,7 +6587,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Hippogriff",
-        "score": 117,
+        "score": 116,
         "id": 217
     }, {
         "b": "Bush Elephant",
@@ -6959,7 +6959,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Diamond Unicorn",
-        "score": 115,
+        "score": 114,
         "id": 229
     }, {
         "b": "Albino Gorilla",
@@ -7207,7 +7207,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "White Amazon",
-        "score": 116,
+        "score": 115,
         "id": 237
     }, {
         "b": "Phoenix",
@@ -7362,7 +7362,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden Hamster",
-        "score": 121,
+        "score": 120,
         "id": 242
     }, {
         "b": "Cuddly Candle",
@@ -7393,7 +7393,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Cuddly Candle",
-        "score": 119,
+        "score": 118,
         "id": 243
     }, {
         "b": "Sunglider",
@@ -7517,7 +7517,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Shark",
-        "score": 123,
+        "score": 122,
         "id": 247
     }, {
         "b": "Dodo",
@@ -7548,7 +7548,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Dodo",
-        "score": 124,
+        "score": 123,
         "id": 248
     }, {
         "b": "T-Rex",
@@ -7579,7 +7579,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "T-Rex",
-        "score": 125,
+        "score": 124,
         "id": 249
     }, {
         "b": "Fallow Deer",
@@ -7641,7 +7641,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Winged Horse",
-        "score": 126,
+        "score": 125,
         "id": 251
     }, {
         "b": "Owlbear",
@@ -7827,7 +7827,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden Rat",
-        "score": 122,
+        "score": 121,
         "id": 257
     }, {
         "b": "Dimension Drifter",
@@ -7920,7 +7920,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Diamond Dragon",
-        "score": 145,
+        "score": 144,
         "id": 260
     }, {
         "b": "Octopus",
@@ -7951,7 +7951,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Octopus",
-        "score": 132,
+        "score": 131,
         "id": 261
     }, {
         "b": "Royal Capuchin Monkey",
@@ -7982,7 +7982,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Royal Capuchin Monkey",
-        "score": 134,
+        "score": 133,
         "id": 262
     }, {
         "b": "Naga Dragon",
@@ -8013,7 +8013,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Naga Dragon",
-        "score": 133,
+        "score": 132,
         "id": 263
     }, {
         "b": "Tree Kangaroo",
@@ -8106,7 +8106,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Cactus Friend",
-        "score": 141,
+        "score": 140,
         "id": 266
     }, {
         "b": "Goldhorn",
@@ -8137,7 +8137,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Goldhorn",
-        "score": 137,
+        "score": 136,
         "id": 267
     }, {
         "b": "Golden Walrus",
@@ -8168,7 +8168,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden Walrus",
-        "score": 111,
+        "score": 110,
         "id": 268
     }, {
         "b": "Firefly",
@@ -8199,7 +8199,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Firefly",
-        "score": 114,
+        "score": 113,
         "id": 269
     }, {
         "b": "Squid",
@@ -8292,7 +8292,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Astronaut Gorilla",
-        "score": 118,
+        "score": 117,
         "id": 272
     }, {
         "b": "Spinosaurus",
@@ -8323,7 +8323,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Spinosaurus",
-        "score": 128,
+        "score": 127,
         "id": 273
     }, {
         "b": "Gargoyle",
@@ -8354,7 +8354,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Gargoyle",
-        "score": 139,
+        "score": 138,
         "id": 274
     }, {
         "b": "Volcanic Rhino",
@@ -8385,7 +8385,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Volcanic Rhino",
-        "score": 135,
+        "score": 134,
         "id": 275
     }, {
         "b": "Black Chow-Chow",
@@ -8416,7 +8416,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Black Chow-Chow",
-        "score": 142,
+        "score": 141,
         "id": 276
     }, {
         "b": "Chocolate Chow-Chow",
@@ -8447,7 +8447,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Chocolate Chow-Chow",
-        "score": 143,
+        "score": 142,
         "id": 277
     }, {
         "b": "Green-Chested Pheasant",
@@ -8540,7 +8540,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Peacock",
-        "score": 129,
+        "score": 128,
         "id": 280
     }, {
         "b": "Diamond Griffin",
@@ -8633,7 +8633,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Lava Wolf",
-        "score": 144,
+        "score": 143,
         "id": 283
     }, {
         "b": "Alicorn",
@@ -8757,7 +8757,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden King Penguin",
-        "score": 138,
+        "score": 137,
         "id": 287
     }, {
         "b": "Golden Albatross",
@@ -8974,7 +8974,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Pirate Hermit Crab",
-        "score": 127,
+        "score": 126,
         "id": 294
     }, {
         "b": "Berry Cool Cube",
@@ -9160,7 +9160,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Cerberus",
-        "score": 130,
+        "score": 129,
         "id": 300
     }, {
         "b": "Winter Buck",
@@ -9284,7 +9284,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Corn Doggo",
-        "score": 120,
+        "score": 119,
         "id": 304
     }, {
         "b": "Diamond Mahi Mahi",
@@ -11086,7 +11086,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Nebula Snake",
-        "score": 61,
+        "score": 60,
         "id": 363
     }, {
         "image": "/images/pets/Blossom Snake.png",
@@ -11116,7 +11116,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Blossom Snake",
-        "score": 60,
+        "score": 59,
         "id": 364
     }, {
         "image": "/images/pets/Prism Snake.png",
@@ -11146,7 +11146,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Prism Snake",
-        "score": 62,
+        "score": 61,
         "id": 365
     }, {
         "image": "/images/pets/Cow Calf.png",
@@ -11566,7 +11566,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Nutcracker Squirrel",
-        "score": 65,
+        "score": 64,
         "id": 379
     }, {
         "image": "/images/pets/Kiwi.png",
@@ -11806,7 +11806,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Feesh",
-        "score": 63,
+        "score": 62,
         "id": 387
     }, {
         "image": "/images/pets/Punk Pony.png",
@@ -11866,7 +11866,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Steppe Lion",
-        "score": 57,
+        "score": 56,
         "id": 389
     }, {
         "image": "/images/pets/Undead Elk.png",
@@ -12166,7 +12166,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ibex",
-        "score": 56,
+        "score": 55,
         "id": 399
     }, {
         "image": "/images/pets/Ostrich.png",
@@ -12256,7 +12256,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Eggnog Hare",
-        "score": 67,
+        "score": 66,
         "id": 402
     }, {
         "image": "/images/pets/Happy Duckling.png",
@@ -12496,7 +12496,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Woolly Mammoth",
-        "score": 59,
+        "score": 58,
         "id": 410
     }, {
         "image": "/images/pets/Dilophosaurus.png",
@@ -12556,7 +12556,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Bloodhound",
-        "score": 66,
+        "score": 65,
         "id": 412
     }, {
         "image": "/images/pets/Oryx.png",
@@ -13817,14 +13817,14 @@
         "id": 454
     }, {
         "image": "/images/pets/Ash Zebra.png",
-        "rvalue": 0.25,
+        "rvalue": 0.45,
         "nvalue": 4,
         "mvalue": 18,
         "status": "Ready",
-        "rvalue - nopotion": 0.25,
-        "rvalue - ride": 0.45,
-        "rvalue - fly": 0.45,
-        "rvalue - fly&ride": 0.65,
+        "rvalue - nopotion": 0.45,
+        "rvalue - ride": 0.7,
+        "rvalue - fly": 0.7,
+        "rvalue - fly&ride": 0.95,
         "nvalue - nopotion": 3.75,
         "nvalue - ride": 3.875,
         "nvalue - fly": 3.875,
@@ -15854,7 +15854,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Eel",
-        "score": 26,
+        "score": 25,
         "id": 523
     }, {
         "image": "/images/pets/Amami Rabbit.png",
@@ -16124,7 +16124,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ermine",
-        "score": 27,
+        "score": 26,
         "id": 532
     }, {
         "image": "/images/pets/Black Marlin.png",
@@ -18158,7 +18158,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Snowy Mammoth",
-        "score": 129,
+        "score": 128,
         "id": 667
     }, {
         "image": "/images/pets/Frozen Penguin.png",
@@ -18188,7 +18188,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Frozen Penguin",
-        "score": 124,
+        "score": 123,
         "id": 668
     }, {
         "image": "/images/pets/Gaelic Fae.png",
@@ -18309,7 +18309,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Subzero Scorpion",
-        "score": 58,
+        "score": 57,
         "id": 672
     }, {
         "image": "/images/pets/Clover Cow.png",
@@ -18519,7 +18519,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Mirai Moth",
-        "score": 127,
+        "score": 126,
         "id": 679
     }, {
         "image": "/images/pets/Kage Crow.png",
@@ -18857,7 +18857,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Mecha R4BBIT",
-        "score": 64,
+        "score": 63,
         "id": 690
     }, {
         "image": "/images/pets/Kappakid.png",
@@ -20236,7 +20236,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Seafoam Butterfly",
-        "score": 121,
+        "score": 120,
         "id": 816
     }, {
         "b": "Orchid Butterfly",
@@ -20298,7 +20298,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Prismatic Butterfly",
-        "score": 112,
+        "score": 111,
         "id": 818
     }, {
         "b": "Violet Butterfly",
@@ -20329,7 +20329,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Violet Butterfly",
-        "score": 113,
+        "score": 112,
         "id": 819
     }, {
         "image": "/images/pets/Amber Butterfly.png",
@@ -20964,7 +20964,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Moonbeam Butterfly",
-        "score": 140,
+        "score": 139,
         "id": 882
     }, {
         "image": "/images/pets/Ancient Unicycle.png",
@@ -29528,7 +29528,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Kelp Captain",
-        "score": 131,
+        "score": 130,
         "id": 1735
     }, {
         "image": "/images/pets/Kelp Raider.png",
@@ -37329,7 +37329,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Black Widow",
-        "score": 136,
+        "score": 135,
         "id": 2548
     }, {
         "image": "/images/pets/Tarantula.png",
@@ -37601,7 +37601,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Choco Penguin",
-        "score": 122,
+        "score": 121,
         "id": 2557
     }, {
         "b": "Dango Penguins",
@@ -39077,7 +39077,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Dire Wolf",
-        "score": 123,
+        "score": 122,
         "id": 2632
     }, {
         "b": "Silverback Gorilla",
@@ -39901,22 +39901,22 @@
         "id": 2667
     }, {
         "image": "/images/pets/Cocoadile.png",
-        "rvalue": 0.1,
-        "nvalue": 1.5,
-        "mvalue": 5.5,
+        "rvalue": 0.08,
+        "nvalue": 1.25,
+        "mvalue": 5,
         "status": "Ready",
-        "rvalue - nopotion": 0.1,
-        "rvalue - ride": 0.35,
-        "rvalue - fly": 0.35,
-        "rvalue - fly&ride": 0.6,
-        "nvalue - nopotion": 1,
-        "nvalue - ride": 1.25,
-        "nvalue - fly": 1.25,
-        "nvalue - fly&ride": 1.5,
-        "mvalue - nopotion": 4.5,
-        "mvalue - ride": 5,
-        "mvalue - fly": 5,
-        "mvalue - fly&ride": 5.5,
+        "rvalue - nopotion": 0.08,
+        "rvalue - ride": 0.33,
+        "rvalue - fly": 0.33,
+        "rvalue - fly&ride": 0.58,
+        "nvalue - nopotion": 0.75,
+        "nvalue - ride": 1,
+        "nvalue - fly": 1,
+        "nvalue - fly&ride": 1.25,
+        "mvalue - nopotion": 4,
+        "mvalue - ride": 4.5,
+        "mvalue - fly": 4.5,
+        "mvalue - fly&ride": 5,
         "fly&ride?": "\"false\"",
         "rarity": "uncommon",
         "type": "pets",
@@ -39927,26 +39927,26 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Cocoadile",
-        "score": 25,
+        "score": 27,
         "id": 2668
     }, {
         "image": "/images/pets/Gummy Guana.png",
-        "rvalue": 0.12,
-        "nvalue": 1.75,
-        "mvalue": 7.5,
+        "rvalue": 0.1,
+        "nvalue": 1.5,
+        "mvalue": 6,
         "status": "Ready",
-        "rvalue - nopotion": 0.12,
-        "rvalue - ride": 0.37,
-        "rvalue - fly": 0.37,
-        "rvalue - fly&ride": 0.62,
-        "nvalue - nopotion": 1.25,
-        "nvalue - ride": 1.5,
-        "nvalue - fly": 1.5,
-        "nvalue - fly&ride": 1.75,
-        "mvalue - nopotion": 5.5,
-        "mvalue - ride": 6.5,
-        "mvalue - fly": 6.5,
-        "mvalue - fly&ride": 7.5,
+        "rvalue - nopotion": 0.1,
+        "rvalue - ride": 0.35,
+        "rvalue - fly": 0.35,
+        "rvalue - fly&ride": 0.6,
+        "nvalue - nopotion": 1,
+        "nvalue - ride": 1.25,
+        "nvalue - fly": 1.25,
+        "nvalue - fly&ride": 1.5,
+        "mvalue - nopotion": 4,
+        "mvalue - ride": 5,
+        "mvalue - fly": 5,
+        "mvalue - fly&ride": 6,
         "fly&ride?": "\"false\"",
         "rarity": "rare",
         "type": "pets",
@@ -39957,7 +39957,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Gummy Guana",
-        "score": 55,
+        "score": 67,
         "id": 2669
     }, {
         "image": "/images/pets/Gumball Caterpillar.png",
@@ -39991,22 +39991,22 @@
         "id": 2670
     }, {
         "image": "/images/pets/Waffle Wyrm.png",
-        "rvalue": 0.24,
-        "nvalue": 2.25,
-        "mvalue": 10,
+        "rvalue": 0.19,
+        "nvalue": 2,
+        "mvalue": 9,
         "status": "Ready",
-        "rvalue - nopotion": 0.24,
-        "rvalue - ride": 0.54,
-        "rvalue - fly": 0.54,
-        "rvalue - fly&ride": 0.84,
-        "nvalue - nopotion": 1,
-        "nvalue - ride": 1.5,
-        "nvalue - fly": 1.5,
-        "nvalue - fly&ride": 2.25,
-        "mvalue - nopotion": 7,
-        "mvalue - ride": 8,
-        "mvalue - fly": 8.75,
-        "mvalue - fly&ride": 10,
+        "rvalue - nopotion": 0.19,
+        "rvalue - ride": 0.49,
+        "rvalue - fly": 0.49,
+        "rvalue - fly&ride": 0.79,
+        "nvalue - nopotion": 0.75,
+        "nvalue - ride": 1.25,
+        "nvalue - fly": 1.25,
+        "nvalue - fly&ride": 2,
+        "mvalue - nopotion": 6,
+        "mvalue - ride": 7,
+        "mvalue - fly": 7.75,
+        "mvalue - fly&ride": 9,
         "fly&ride?": "\"false\"",
         "rarity": "ultra rare",
         "type": "pets",
@@ -40017,27 +40017,27 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Waffle Wyrm",
-        "score": 113,
+        "score": 133,
         "id": 2671
     }, {
         "b": "Mochi Meow",
         "image": "/images/pets/Mochi Meow.png",
-        "rvalue": 1.15,
-        "nvalue": 8,
-        "mvalue": 36,
+        "rvalue": 0.75,
+        "nvalue": 6.5,
+        "mvalue": 26,
         "status": "Ready",
-        "rvalue - nopotion": 1.15,
-        "rvalue - ride": 1.45,
-        "rvalue - fly": 1.5,
-        "rvalue - fly&ride": 1.9,
-        "nvalue - nopotion": 6,
-        "nvalue - ride": 7,
-        "nvalue - fly": 7,
-        "nvalue - fly&ride": 8,
-        "mvalue - nopotion": 33,
-        "mvalue - ride": 34,
-        "mvalue - fly": 34.75,
-        "mvalue - fly&ride": 36,
+        "rvalue - nopotion": 0.75,
+        "rvalue - ride": 1.05,
+        "rvalue - fly": 1.1,
+        "rvalue - fly&ride": 1.5,
+        "nvalue - nopotion": 4.5,
+        "nvalue - ride": 5.5,
+        "nvalue - fly": 5.5,
+        "nvalue - fly&ride": 6.5,
+        "mvalue - nopotion": 23,
+        "mvalue - ride": 24,
+        "mvalue - fly": 24.75,
+        "mvalue - fly&ride": 26,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -40048,7 +40048,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Mochi Meow",
-        "score": 110,
+        "score": 145,
         "id": 2672
     }, {
         "image": "/images/pets/Sour Glider.png",
