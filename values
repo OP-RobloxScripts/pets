@@ -236,7 +236,7 @@
         "categorypreppyn": "\"true\"",
         "categorypreppym": "\"true\"",
         "name": "Caterpillar",
-        "score": 9,
+        "score": 10,
         "id": 7
     }, {
         "image": "/images/pets/Lion.png",
@@ -896,7 +896,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ice Wolf",
-        "score": 44,
+        "score": 43,
         "id": 29
     }, {
         "image": "/images/pets/Happy Clam.png",
@@ -1196,7 +1196,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Hummingbird",
-        "score": 128,
+        "score": 127,
         "id": 39
     }, {
         "image": "/images/pets/Snowball Pet.png",
@@ -1256,7 +1256,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Snow Monkey",
-        "score": 47,
+        "score": 46,
         "id": 41
     }, {
         "image": "/images/pets/Royal Palace Spaniel.png",
@@ -1316,7 +1316,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Nautilus",
-        "score": 81,
+        "score": 80,
         "id": 43
     }, {
         "image": "/images/pets/Royal Corgi.png",
@@ -1346,7 +1346,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Royal Corgi",
-        "score": 46,
+        "score": 45,
         "id": 44
     }, {
         "image": "/images/pets/Merry Mistletroll.png",
@@ -1376,7 +1376,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Merry Mistletroll",
-        "score": 96,
+        "score": 95,
         "id": 45
     }, {
         "image": "/images/pets/Lamb.png",
@@ -1436,7 +1436,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ram",
-        "score": 45,
+        "score": 44,
         "id": 47
     }, {
         "image": "/images/pets/Flaming Fox.png",
@@ -1496,7 +1496,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Orca",
-        "score": 151,
+        "score": 150,
         "id": 49
     }, {
         "image": "/images/pets/Ghost Bunny.png",
@@ -1556,7 +1556,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Green Amazon",
-        "score": 122,
+        "score": 121,
         "id": 51
     }, {
         "image": "/images/pets/Puptune.png",
@@ -1646,7 +1646,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Giant Blue Scarab",
-        "score": 84,
+        "score": 83,
         "id": 54
     }, {
         "image": "/images/pets/Pomeranian.png",
@@ -1766,7 +1766,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Hamster",
-        "score": 101,
+        "score": 100,
         "id": 58
     }, {
         "image": "/images/pets/Horse.png",
@@ -1796,7 +1796,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Horse",
-        "score": 77,
+        "score": 76,
         "id": 59
     }, {
         "image": "/images/pets/Koala.png",
@@ -1826,7 +1826,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Koala",
-        "score": 95,
+        "score": 94,
         "id": 60
     }, {
         "image": "/images/pets/Space Whale.png",
@@ -1856,7 +1856,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Space Whale",
-        "score": 82,
+        "score": 81,
         "id": 61
     }, {
         "image": "/images/pets/Albino Bat.png",
@@ -1886,7 +1886,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Albino Bat",
-        "score": 104,
+        "score": 103,
         "id": 62
     }, {
         "image": "/images/pets/Brown-Chested Pheasant.png",
@@ -1916,7 +1916,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Brown-Chested Pheasant",
-        "score": 121,
+        "score": 120,
         "id": 63
     }, {
         "image": "/images/pets/St Bernard.png",
@@ -1946,7 +1946,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "St Bernard",
-        "score": 91,
+        "score": 90,
         "id": 64
     }, {
         "image": "/images/pets/Giant Black Scarab.png",
@@ -1976,7 +1976,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Giant Black Scarab",
-        "score": 117,
+        "score": 116,
         "id": 65
     }, {
         "image": "/images/pets/Business Monkey.png",
@@ -2096,7 +2096,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Tan Chow-Chow",
-        "score": 129,
+        "score": 128,
         "id": 69
     }, {
         "image": "/images/pets/Highland Cow.png",
@@ -2126,7 +2126,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Highland Cow",
-        "score": 83,
+        "score": 82,
         "id": 70
     }, {
         "image": "/images/pets/Frog.png",
@@ -2156,7 +2156,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Frog",
-        "score": 93,
+        "score": 92,
         "id": 71
     }, {
         "image": "/images/pets/Wooly Rhino.png",
@@ -2246,7 +2246,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Frostbite Cub",
-        "score": 75,
+        "score": 74,
         "id": 74
     }, {
         "image": "/images/pets/Starmite.png",
@@ -2306,7 +2306,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Elasmosaurus",
-        "score": 138,
+        "score": 137,
         "id": 76
     }, {
         "image": "/images/pets/Rooster.png",
@@ -2336,7 +2336,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Rooster",
-        "score": 90,
+        "score": 89,
         "id": 77
     }, {
         "image": "/images/pets/Toasty Red Panda.png",
@@ -2366,7 +2366,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Toasty Red Panda",
-        "score": 92,
+        "score": 91,
         "id": 78
     }, {
         "image": "/images/pets/Nightmare Owl.png",
@@ -2396,7 +2396,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Nightmare Owl",
-        "score": 114,
+        "score": 113,
         "id": 79
     }, {
         "image": "/images/pets/Evil Chickatrice.png",
@@ -2426,7 +2426,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Evil Chickatrice",
-        "score": 113,
+        "score": 112,
         "id": 80
     }, {
         "image": "/images/pets/Evil Basilisk.png",
@@ -2456,7 +2456,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Evil Basilisk",
-        "score": 112,
+        "score": 111,
         "id": 81
     }, {
         "image": "/images/pets/Red Squirrel.png",
@@ -2486,7 +2486,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Red Squirrel",
-        "score": 79,
+        "score": 78,
         "id": 82
     }, {
         "image": "/images/pets/Indian Flying Fox.png",
@@ -2516,7 +2516,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Indian Flying Fox",
-        "score": 123,
+        "score": 122,
         "id": 83
     }, {
         "image": "/images/pets/Magma Moose.png",
@@ -2546,7 +2546,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Magma Moose",
-        "score": 148,
+        "score": 147,
         "id": 84
     }, {
         "image": "/images/pets/Magma Snail.png",
@@ -2576,26 +2576,26 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Magma Snail",
-        "score": 149,
+        "score": 148,
         "id": 85
     }, {
         "image": "/images/pets/Pumpkin Friend.png",
-        "rvalue": 0.24,
-        "nvalue": 2,
-        "mvalue": 8.5,
+        "rvalue": 0.25,
+        "nvalue": 2.05,
+        "mvalue": 8.75,
         "status": "Ready",
-        "rvalue - nopotion": 0.24,
-        "rvalue - ride": 0.44,
-        "rvalue - fly": 0.44,
-        "rvalue - fly&ride": 0.69,
-        "nvalue - nopotion": 1.4,
-        "nvalue - ride": 1.7,
-        "nvalue - fly": 1.7,
-        "nvalue - fly&ride": 2,
-        "mvalue - nopotion": 6.25,
-        "mvalue - ride": 7.25,
-        "mvalue - fly": 7.4,
-        "mvalue - fly&ride": 8.5,
+        "rvalue - nopotion": 0.25,
+        "rvalue - ride": 0.45,
+        "rvalue - fly": 0.45,
+        "rvalue - fly&ride": 0.7,
+        "nvalue - nopotion": 1.45,
+        "nvalue - ride": 1.75,
+        "nvalue - fly": 1.75,
+        "nvalue - fly&ride": 2.05,
+        "mvalue - nopotion": 6.5,
+        "mvalue - ride": 7.5,
+        "mvalue - fly": 7.65,
+        "mvalue - fly&ride": 8.75,
         "fly&ride?": "\"false\"",
         "rarity": "ultra rare",
         "type": "pets",
@@ -2606,7 +2606,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Pumpkin Friend",
-        "score": 110,
+        "score": 109,
         "id": 86
     }, {
         "image": "/images/pets/Winter Doe.png",
@@ -2636,7 +2636,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Winter Doe",
-        "score": 136,
+        "score": 135,
         "id": 87
     }, {
         "image": "/images/pets/Deinonychus.png",
@@ -2726,7 +2726,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Partridge",
-        "score": 109,
+        "score": 108,
         "id": 90
     }, {
         "image": "/images/pets/Headless Horse.png",
@@ -2756,7 +2756,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Headless Horse",
-        "score": 98,
+        "score": 97,
         "id": 91
     }, {
         "image": "/images/pets/Fanghorn Tortoise.png",
@@ -2786,7 +2786,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Fanghorn Tortoise",
-        "score": 139,
+        "score": 138,
         "id": 92
     }, {
         "image": "/images/pets/Bauble Buddies.png",
@@ -2816,7 +2816,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Bauble Buddies",
-        "score": 137,
+        "score": 136,
         "id": 93
     }, {
         "image": "/images/pets/Rice Cake Rabbit.png",
@@ -2846,7 +2846,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Rice Cake Rabbit",
-        "score": 142,
+        "score": 141,
         "id": 94
     }, {
         "image": "/images/pets/Peregrine Falcon.png",
@@ -2876,7 +2876,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Peregrine Falcon",
-        "score": 100,
+        "score": 99,
         "id": 95
     }, {
         "image": "/images/pets/Penguin.png",
@@ -2906,7 +2906,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Penguin",
-        "score": 103,
+        "score": 102,
         "id": 96
     }, {
         "image": "/images/pets/Karate Gorilla.png",
@@ -2966,7 +2966,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Chef Gorilla",
-        "score": 49,
+        "score": 48,
         "id": 98
     }, {
         "image": "/images/pets/Wildfire Hawk.png",
@@ -2996,7 +2996,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Wildfire Hawk",
-        "score": 144,
+        "score": 143,
         "id": 99
     }, {
         "image": "/images/pets/Burning Bunny.png",
@@ -3026,7 +3026,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Burning Bunny",
-        "score": 88,
+        "score": 87,
         "id": 100
     }, {
         "image": "/images/pets/Halloween White Skeleton Dog.png",
@@ -3056,7 +3056,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Halloween White Skeleton Dog",
-        "score": 106,
+        "score": 105,
         "id": 101
     }, {
         "image": "/images/pets/Gingerbread Reindeer.png",
@@ -3086,7 +3086,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Gingerbread Reindeer",
-        "score": 118,
+        "score": 117,
         "id": 102
     }, {
         "image": "/images/pets/Zombie Wolf.png",
@@ -3146,7 +3146,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Gingerbread Hare",
-        "score": 105,
+        "score": 104,
         "id": 104
     }, {
         "image": "/images/pets/Blue Ringed Octopus.png",
@@ -3176,7 +3176,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Blue Ringed Octopus",
-        "score": 76,
+        "score": 75,
         "id": 105
     }, {
         "image": "/images/pets/Candy Cane Snail.png",
@@ -3206,7 +3206,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Candy Cane Snail",
-        "score": 97,
+        "score": 96,
         "id": 106
     }, {
         "image": "/images/pets/Scarlet Butterfly.png",
@@ -3266,7 +3266,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Sprout Snail",
-        "score": 135,
+        "score": 134,
         "id": 108
     }, {
         "image": "/images/pets/Skunk.png",
@@ -3326,7 +3326,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Praying Mantis",
-        "score": 155,
+        "score": 154,
         "id": 110
     }, {
         "image": "/images/pets/Inmate Capuchin Monkey.png",
@@ -3356,7 +3356,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Inmate Capuchin Monkey",
-        "score": 119,
+        "score": 118,
         "id": 111
     }, {
         "image": "/images/pets/Preppy Capuchin Monkey.png",
@@ -3386,7 +3386,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Preppy Capuchin Monkey",
-        "score": 120,
+        "score": 119,
         "id": 112
     }, {
         "image": "/images/pets/Albatross.png",
@@ -3416,7 +3416,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Albatross",
-        "score": 126,
+        "score": 125,
         "id": 113
     }, {
         "image": "/images/pets/Puffer Fish.png",
@@ -3506,7 +3506,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Golden Jaguar",
-        "score": 87,
+        "score": 86,
         "id": 116
     }, {
         "image": "/images/pets/Cold Cube.png",
@@ -3866,7 +3866,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Sloth",
-        "score": 143,
+        "score": 142,
         "id": 128
     }, {
         "image": "/images/pets/King Penguin.png",
@@ -3896,7 +3896,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "King Penguin",
-        "score": 107,
+        "score": 106,
         "id": 129
     }, {
         "image": "/images/pets/Scarecrow Cat.png",
@@ -3926,7 +3926,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Scarecrow Cat",
-        "score": 111,
+        "score": 110,
         "id": 130
     }, {
         "image": "/images/pets/Shetland Pony White.png",
@@ -3956,7 +3956,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Shetland Pony White",
-        "score": 132,
+        "score": 131,
         "id": 131
     }, {
         "image": "/images/pets/Toucan.png",
@@ -4106,7 +4106,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Clownfish",
-        "score": 116,
+        "score": 115,
         "id": 136
     }, {
         "image": "/images/pets/Seagull.png",
@@ -4136,7 +4136,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Seagull",
-        "score": 124,
+        "score": 123,
         "id": 137
     }, {
         "image": "/images/pets/Pink Betta Fish.png",
@@ -4166,7 +4166,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Pink Betta Fish",
-        "score": 152,
+        "score": 151,
         "id": 138
     }, {
         "image": "/images/pets/Ladybug.png",
@@ -4260,22 +4260,22 @@
         "id": 141
     }, {
         "image": "/images/pets/Black Macaque.png",
-        "rvalue": 0.37,
-        "nvalue": 2.65,
-        "mvalue": 11.6,
+        "rvalue": 0.38,
+        "nvalue": 2.7,
+        "mvalue": 11.8,
         "status": "Ready",
-        "rvalue - nopotion": 0.37,
-        "rvalue - ride": 0.5700000000000001,
-        "rvalue - fly": 0.5700000000000001,
-        "rvalue - fly&ride": 0.8200000000000001,
-        "nvalue - nopotion": 2,
-        "nvalue - ride": 2.33,
-        "nvalue - fly": 2.33,
-        "nvalue - fly&ride": 2.65,
-        "mvalue - nopotion": 8.850000000000001,
-        "mvalue - ride": 9.850000000000001,
-        "mvalue - fly": 10.5,
-        "mvalue - fly&ride": 11.6,
+        "rvalue - nopotion": 0.38,
+        "rvalue - ride": 0.58,
+        "rvalue - fly": 0.58,
+        "rvalue - fly&ride": 0.8300000000000001,
+        "nvalue - nopotion": 2.05,
+        "nvalue - ride": 2.38,
+        "nvalue - fly": 2.38,
+        "nvalue - fly&ride": 2.7,
+        "mvalue - nopotion": 9.05,
+        "mvalue - ride": 10.05,
+        "mvalue - fly": 10.7,
+        "mvalue - fly&ride": 11.8,
         "fly&ride?": "\"false\"",
         "rarity": "ultra rare",
         "type": "pets",
@@ -4286,7 +4286,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Black Macaque",
-        "score": 80,
+        "score": 79,
         "id": 142
     }, {
         "image": "/images/pets/Grave Owl.png",
@@ -4706,7 +4706,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Black Kite",
-        "score": 153,
+        "score": 152,
         "id": 156
     }, {
         "image": "/images/pets/Badger.png",
@@ -4826,7 +4826,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Mr Whiskerpips",
-        "score": 89,
+        "score": 88,
         "id": 160
     }, {
         "image": "/images/pets/Ghost Chick.png",
@@ -4886,7 +4886,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Water Moon Bear",
-        "score": 125,
+        "score": 124,
         "id": 162
     }, {
         "image": "/images/pets/Flower Power Duckling.png",
@@ -4916,7 +4916,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Flower Power Duckling",
-        "score": 85,
+        "score": 84,
         "id": 163
     }, {
         "image": "/images/pets/Lunar White Tiger.png",
@@ -5010,22 +5010,22 @@
         "id": 166
     }, {
         "image": "/images/pets/Bat Dragon.png",
-        "rvalue": 758,
-        "nvalue": 1745,
-        "mvalue": 4730,
+        "rvalue": 762,
+        "nvalue": 1750,
+        "mvalue": 4740,
         "status": "Ready",
-        "rvalue - nopotion": 771,
-        "rvalue - ride": 758,
-        "rvalue - fly": 758,
-        "rvalue - fly&ride": 758,
+        "rvalue - nopotion": 775,
+        "rvalue - ride": 762,
+        "rvalue - fly": 762,
+        "rvalue - fly&ride": 762,
         "nvalue - nopotion": 1870,
-        "nvalue - ride": 1796.6,
-        "nvalue - fly": 1796.6,
-        "nvalue - fly&ride": 1745,
-        "mvalue - nopotion": 4988,
-        "mvalue - ride": 4807.4,
-        "mvalue - fly": 4781.6,
-        "mvalue - fly&ride": 4730,
+        "nvalue - ride": 1801.6,
+        "nvalue - fly": 1801.6,
+        "nvalue - fly&ride": 1750,
+        "mvalue - nopotion": 4998,
+        "mvalue - ride": 4817.4,
+        "mvalue - fly": 4791.6,
+        "mvalue - fly&ride": 4740,
         "fly&ride?": "\"true\"",
         "rarity": "legendary",
         "type": "pets",
@@ -5102,7 +5102,7 @@
         "image": "/images/pets/Frost Dragon.png",
         "rvalue": 258,
         "nvalue": 494,
-        "mvalue": 1198,
+        "mvalue": 1194,
         "status": "Ready",
         "rvalue - nopotion": 270,
         "rvalue - ride": 258,
@@ -5113,9 +5113,9 @@
         "nvalue - fly": 500,
         "nvalue - fly&ride": 494,
         "mvalue - nopotion": 2300,
-        "mvalue - ride": 1526,
-        "mvalue - fly": 1456,
-        "mvalue - fly&ride": 1198,
+        "mvalue - ride": 1522,
+        "mvalue - fly": 1452,
+        "mvalue - fly&ride": 1194,
         "fly&ride?": "\"true\"",
         "rarity": "legendary",
         "type": "pets",
@@ -5132,7 +5132,7 @@
         "image": "/images/pets/Owl.png",
         "rvalue": 212,
         "nvalue": 542,
-        "mvalue": 1780,
+        "mvalue": 1770,
         "status": "Ready",
         "rvalue - nopotion": 215,
         "rvalue - ride": 211.5,
@@ -5143,9 +5143,9 @@
         "nvalue - fly": 546,
         "nvalue - fly&ride": 542,
         "mvalue - nopotion": 2140,
-        "mvalue - ride": 1845.6,
-        "mvalue - fly": 1878.4,
-        "mvalue - fly&ride": 1780,
+        "mvalue - ride": 1835.6,
+        "mvalue - fly": 1868.4,
+        "mvalue - fly&ride": 1770,
         "fly&ride?": "\"true\"",
         "rarity": "legendary",
         "type": "pets",
@@ -5162,7 +5162,7 @@
         "image": "/images/pets/Parrot.png",
         "rvalue": 167,
         "nvalue": 349,
-        "mvalue": 1038,
+        "mvalue": 1034,
         "status": "Ready",
         "rvalue - nopotion": 169,
         "rvalue - ride": 166.5,
@@ -5173,9 +5173,9 @@
         "nvalue - fly": 351,
         "nvalue - fly&ride": 349,
         "mvalue - nopotion": 1840,
-        "mvalue - ride": 1089.6,
-        "mvalue - fly": 1115.4,
-        "mvalue - fly&ride": 1038,
+        "mvalue - ride": 1085.6,
+        "mvalue - fly": 1111.4,
+        "mvalue - fly&ride": 1034,
         "fly&ride?": "\"true\"",
         "rarity": "legendary",
         "type": "pets",
@@ -5252,7 +5252,7 @@
         "image": "/images/pets/Evil Unicorn.png",
         "rvalue": 102,
         "nvalue": 195,
-        "mvalue": 690,
+        "mvalue": 680,
         "status": "Ready",
         "rvalue - nopotion": 102,
         "rvalue - ride": 101.5,
@@ -5263,9 +5263,9 @@
         "nvalue - fly": 197,
         "nvalue - fly&ride": 195,
         "mvalue - nopotion": 1000,
-        "mvalue - ride": 715.8,
-        "mvalue - fly": 741.6,
-        "mvalue - fly&ride": 690,
+        "mvalue - ride": 705.8,
+        "mvalue - fly": 731.6,
+        "mvalue - fly&ride": 680,
         "fly&ride?": "\"true\"",
         "rarity": "legendary",
         "type": "pets",
@@ -5282,7 +5282,7 @@
         "image": "/images/pets/Balloon Unicorn.png",
         "rvalue": 151,
         "nvalue": 457,
-        "mvalue": 1450,
+        "mvalue": 1460,
         "status": "Ready",
         "rvalue - nopotion": 149,
         "rvalue - ride": 149,
@@ -5292,10 +5292,10 @@
         "nvalue - ride": 456,
         "nvalue - fly": 456,
         "nvalue - fly&ride": 457,
-        "mvalue - nopotion": 1599,
-        "mvalue - ride": 1448,
-        "mvalue - fly": 1448.9,
-        "mvalue - fly&ride": 1450,
+        "mvalue - nopotion": 1609,
+        "mvalue - ride": 1458,
+        "mvalue - fly": 1458.9,
+        "mvalue - fly&ride": 1460,
         "fly&ride?": "\"true\"",
         "rarity": "legendary",
         "type": "pets",
@@ -5396,26 +5396,26 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Diamond Hummingbird",
-        "score": 84,
+        "score": 83,
         "id": 179
     }, {
         "image": "/images/pets/Monkey King.png",
         "rvalue": 21.5,
-        "nvalue": 71,
-        "mvalue": 280,
+        "nvalue": 72,
+        "mvalue": 284,
         "status": "Ready",
         "rvalue - nopotion": 21,
         "rvalue - ride": 20.5,
         "rvalue - fly": 20.5,
         "rvalue - fly&ride": 21.5,
-        "nvalue - nopotion": 92.5,
-        "nvalue - ride": 71,
-        "nvalue - fly": 71,
-        "nvalue - fly&ride": 71,
-        "mvalue - nopotion": 393.125,
-        "mvalue - ride": 285,
-        "mvalue - fly": 285,
-        "mvalue - fly&ride": 280,
+        "nvalue - nopotion": 93.5,
+        "nvalue - ride": 72,
+        "nvalue - fly": 72,
+        "nvalue - fly&ride": 72,
+        "mvalue - nopotion": 397.375,
+        "mvalue - ride": 289,
+        "mvalue - fly": 289,
+        "mvalue - fly&ride": 284,
         "fly&ride?": "\"true\"",
         "rarity": "legendary",
         "type": "pets",
@@ -5546,7 +5546,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"true\"",
         "name": "Diamond Amazon",
-        "score": 67,
+        "score": 66,
         "id": 184
     }, {
         "image": "/images/pets/Hot Doggo.png",
@@ -5580,22 +5580,22 @@
         "id": 185
     }, {
         "image": "/images/pets/Undead Jousting Horse.png",
-        "rvalue": 19.25,
-        "nvalue": 75,
-        "mvalue": 300,
+        "rvalue": 19.5,
+        "nvalue": 76,
+        "mvalue": 304,
         "status": "Ready",
-        "rvalue - nopotion": 19.25,
-        "rvalue - ride": 19.65,
-        "rvalue - fly": 19.7,
-        "rvalue - fly&ride": 20.25,
-        "nvalue - nopotion": 73,
-        "nvalue - ride": 74,
-        "nvalue - fly": 74,
-        "nvalue - fly&ride": 75,
-        "mvalue - nopotion": 310,
-        "mvalue - ride": 298,
-        "mvalue - fly": 298.9,
-        "mvalue - fly&ride": 300,
+        "rvalue - nopotion": 19.5,
+        "rvalue - ride": 19.9,
+        "rvalue - fly": 19.95,
+        "rvalue - fly&ride": 20.5,
+        "nvalue - nopotion": 74,
+        "nvalue - ride": 75,
+        "nvalue - fly": 75,
+        "nvalue - fly&ride": 76,
+        "mvalue - nopotion": 314,
+        "mvalue - ride": 302,
+        "mvalue - fly": 302.9,
+        "mvalue - fly&ride": 304,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -5636,7 +5636,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Royal Mistletroll",
-        "score": 60,
+        "score": 59,
         "id": 187
     }, {
         "image": "/images/pets/Kangaroo.png",
@@ -5731,21 +5731,21 @@
     }, {
         "image": "/images/pets/Haetae.png",
         "rvalue": 109,
-        "nvalue": 281,
-        "mvalue": 940,
+        "nvalue": 283,
+        "mvalue": 950,
         "status": "Ready",
         "rvalue - nopotion": 107,
         "rvalue - ride": 107,
         "rvalue - fly": 107.85,
         "rvalue - fly&ride": 109,
-        "nvalue - nopotion": 286,
-        "nvalue - ride": 280,
-        "nvalue - fly": 280,
-        "nvalue - fly&ride": 281,
-        "mvalue - nopotion": 960,
-        "mvalue - ride": 938,
-        "mvalue - fly": 938.9,
-        "mvalue - fly&ride": 940,
+        "nvalue - nopotion": 288,
+        "nvalue - ride": 282,
+        "nvalue - fly": 282,
+        "nvalue - fly&ride": 283,
+        "mvalue - nopotion": 970,
+        "mvalue - ride": 948,
+        "mvalue - fly": 948.9,
+        "mvalue - fly&ride": 950,
         "fly&ride?": "\"true\"",
         "rarity": "legendary",
         "type": "pets",
@@ -5966,7 +5966,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Mechapup",
-        "score": 59,
+        "score": 58,
         "id": 198
     }, {
         "image": "/images/pets/Tió De Nadal.png",
@@ -6026,7 +6026,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Giant Gold Scarab",
-        "score": 75,
+        "score": 74,
         "id": 200
     }, {
         "image": "/images/pets/Golden Hummingbird.png",
@@ -6116,7 +6116,7 @@
         "preppybonusn": "\"true\"",
         "preppybonusm": "\"true\"",
         "name": "Nessie",
-        "score": 54,
+        "score": 53,
         "id": 203
     }, {
         "image": "/images/pets/Winged Tiger.png",
@@ -6176,7 +6176,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"true\"",
         "name": "Caelum Cervi",
-        "score": 61,
+        "score": 60,
         "id": 205
     }, {
         "image": "/images/pets/Aurora Fox.png",
@@ -6206,7 +6206,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Aurora Fox",
-        "score": 71,
+        "score": 70,
         "id": 206
     }, {
         "image": "/images/pets/Sugar Axolotl.png",
@@ -6236,7 +6236,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Sugar Axolotl",
-        "score": 66,
+        "score": 65,
         "id": 207
     }, {
         "image": "/images/pets/Glacier Kitsune.png",
@@ -6266,7 +6266,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Glacier Kitsune",
-        "score": 72,
+        "score": 71,
         "id": 208
     }, {
         "image": "/images/pets/Frost Fury.png",
@@ -6326,7 +6326,7 @@
         "preppybonusn": "\"true\"",
         "preppybonusm": "\"true\"",
         "name": "Diamond Hamster",
-        "score": 81,
+        "score": 80,
         "id": 210
     }, {
         "image": "/images/pets/Vampire Dragon.png",
@@ -6416,7 +6416,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Lava Dragon",
-        "score": 63,
+        "score": 62,
         "id": 213
     }, {
         "image": "/images/pets/Diamond Albatross.png",
@@ -6446,7 +6446,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Diamond Albatross",
-        "score": 78,
+        "score": 77,
         "id": 214
     }, {
         "image": "/images/pets/Emperor Gorilla.png",
@@ -6480,22 +6480,22 @@
         "id": 215
     }, {
         "image": "/images/pets/Grim Dragon.png",
-        "rvalue": 11.5,
-        "nvalue": 42,
-        "mvalue": 162,
+        "rvalue": 12,
+        "nvalue": 45,
+        "mvalue": 170,
         "status": "Ready",
-        "rvalue - nopotion": 11.5,
-        "rvalue - ride": 11.9,
-        "rvalue - fly": 11.95,
-        "rvalue - fly&ride": 12.5,
-        "nvalue - nopotion": 40,
-        "nvalue - ride": 41,
-        "nvalue - fly": 41,
-        "nvalue - fly&ride": 42,
-        "mvalue - nopotion": 163,
-        "mvalue - ride": 160,
-        "mvalue - fly": 160.9,
-        "mvalue - fly&ride": 162,
+        "rvalue - nopotion": 12,
+        "rvalue - ride": 12.4,
+        "rvalue - fly": 12.45,
+        "rvalue - fly&ride": 13,
+        "nvalue - nopotion": 43,
+        "nvalue - ride": 44,
+        "nvalue - fly": 44,
+        "nvalue - fly&ride": 45,
+        "mvalue - nopotion": 171,
+        "mvalue - ride": 168,
+        "mvalue - fly": 168.9,
+        "mvalue - fly&ride": 170,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -6506,7 +6506,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Grim Dragon",
-        "score": 33,
+        "score": 31,
         "id": 216
     }, {
         "image": "/images/pets/Hippogriff.png",
@@ -6536,7 +6536,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Hippogriff",
-        "score": 162,
+        "score": 161,
         "id": 217
     }, {
         "image": "/images/pets/Bush Elephant.png",
@@ -6596,7 +6596,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Midnight Dragon",
-        "score": 68,
+        "score": 67,
         "id": 219
     }, {
         "image": "/images/pets/Halloween White Ghost Dragon.png",
@@ -6626,7 +6626,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Halloween White Ghost Dragon",
-        "score": 69,
+        "score": 68,
         "id": 220
     }, {
         "image": "/images/pets/Dancing Dragon.png",
@@ -6656,7 +6656,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Dancing Dragon",
-        "score": 73,
+        "score": 72,
         "id": 221
     }, {
         "image": "/images/pets/Gilded Snake.png",
@@ -6686,26 +6686,26 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Gilded Snake",
-        "score": 159,
+        "score": 156,
         "id": 222
     }, {
         "image": "/images/pets/Werewolf.png",
-        "rvalue": 8.25,
-        "nvalue": 36,
-        "mvalue": 151,
+        "rvalue": 8.5,
+        "nvalue": 37,
+        "mvalue": 155,
         "status": "Ready",
-        "rvalue - nopotion": 8.25,
-        "rvalue - ride": 8.55,
-        "rvalue - fly": 8.6,
-        "rvalue - fly&ride": 9,
-        "nvalue - nopotion": 34,
-        "nvalue - ride": 35,
-        "nvalue - fly": 35,
-        "nvalue - fly&ride": 36,
-        "mvalue - nopotion": 148,
-        "mvalue - ride": 149,
-        "mvalue - fly": 149.9,
-        "mvalue - fly&ride": 151,
+        "rvalue - nopotion": 8.5,
+        "rvalue - ride": 8.8,
+        "rvalue - fly": 8.85,
+        "rvalue - fly&ride": 9.25,
+        "nvalue - nopotion": 35,
+        "nvalue - ride": 36,
+        "nvalue - fly": 36,
+        "nvalue - fly&ride": 37,
+        "mvalue - nopotion": 152,
+        "mvalue - ride": 153,
+        "mvalue - fly": 153.9,
+        "mvalue - fly&ride": 155,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -6746,7 +6746,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"true\"",
         "name": "Diamond King Penguin",
-        "score": 95,
+        "score": 94,
         "id": 224
     }, {
         "image": "/images/pets/Golden Chow-Chow.png",
@@ -6776,7 +6776,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"true\"",
         "name": "Golden Chow-Chow",
-        "score": 85,
+        "score": 84,
         "id": 225
     }, {
         "image": "/images/pets/Lavender Dragon.png",
@@ -6806,7 +6806,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Lavender Dragon",
-        "score": 86,
+        "score": 85,
         "id": 226
     }, {
         "image": "/images/pets/Ice Golem.png",
@@ -6836,7 +6836,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Ice Golem",
-        "score": 93,
+        "score": 92,
         "id": 227
     }, {
         "image": "/images/pets/Queen Bee.png",
@@ -6866,7 +6866,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Queen Bee",
-        "score": 99,
+        "score": 98,
         "id": 228
     }, {
         "image": "/images/pets/Diamond Unicorn.png",
@@ -6926,7 +6926,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Albino Gorilla",
-        "score": 98,
+        "score": 97,
         "id": 230
     }, {
         "image": "/images/pets/Ninja Monkey.png",
@@ -7076,18 +7076,18 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden Penguin",
-        "score": 90,
+        "score": 89,
         "id": 235
     }, {
         "image": "/images/pets/Shark Puppy.png",
-        "rvalue": 12,
+        "rvalue": 11.5,
         "nvalue": 47,
         "mvalue": 191,
         "status": "Ready",
-        "rvalue - nopotion": 12,
-        "rvalue - ride": 12.4,
-        "rvalue - fly": 12.45,
-        "rvalue - fly&ride": 13,
+        "rvalue - nopotion": 11.5,
+        "rvalue - ride": 11.9,
+        "rvalue - fly": 11.95,
+        "rvalue - fly&ride": 12.5,
         "nvalue - nopotion": 45,
         "nvalue - ride": 46,
         "nvalue - fly": 46,
@@ -7106,26 +7106,26 @@
         "preppybonusn": "\"false",
         "preppybonusm": "\"true\"",
         "name": "Shark Puppy",
-        "score": 31,
+        "score": 33,
         "id": 236
     }, {
         "image": "/images/pets/White Amazon.png",
-        "rvalue": 0.8,
-        "nvalue": 5.6,
-        "mvalue": 23,
+        "rvalue": 0.75,
+        "nvalue": 5.25,
+        "mvalue": 22,
         "status": "Ready",
-        "rvalue - nopotion": 0.8,
-        "rvalue - ride": 1.1,
-        "rvalue - fly": 1.1,
-        "rvalue - fly&ride": 1.5,
-        "nvalue - nopotion": 3.85,
-        "nvalue - ride": 4.8,
-        "nvalue - fly": 4.8,
-        "nvalue - fly&ride": 5.6,
-        "mvalue - nopotion": 20,
-        "mvalue - ride": 21,
-        "mvalue - fly": 21.9,
-        "mvalue - fly&ride": 23,
+        "rvalue - nopotion": 0.75,
+        "rvalue - ride": 1.05,
+        "rvalue - fly": 1.05,
+        "rvalue - fly&ride": 1.45,
+        "nvalue - nopotion": 3.6,
+        "nvalue - ride": 4.45,
+        "nvalue - fly": 4.45,
+        "nvalue - fly&ride": 5.25,
+        "mvalue - nopotion": 19,
+        "mvalue - ride": 20,
+        "mvalue - fly": 20.9,
+        "mvalue - fly&ride": 22,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -7136,7 +7136,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "White Amazon",
-        "score": 140,
+        "score": 144,
         "id": 237
     }, {
         "image": "/images/pets/Phoenix.png",
@@ -7202,7 +7202,7 @@
         "image": "/images/pets/Field Mouse.png",
         "rvalue": 7,
         "nvalue": 31,
-        "mvalue": 129,
+        "mvalue": 128,
         "status": "Ready",
         "rvalue - nopotion": 7,
         "rvalue - ride": 7.3,
@@ -7212,10 +7212,10 @@
         "nvalue - ride": 30,
         "nvalue - fly": 30,
         "nvalue - fly&ride": 31,
-        "mvalue - nopotion": 126,
-        "mvalue - ride": 127,
-        "mvalue - fly": 127.9,
-        "mvalue - fly&ride": 129,
+        "mvalue - nopotion": 125,
+        "mvalue - ride": 126,
+        "mvalue - fly": 126.9,
+        "mvalue - fly&ride": 128,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -7316,7 +7316,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Cuddly Candle",
-        "score": 143,
+        "score": 140,
         "id": 243
     }, {
         "image": "/images/pets/Sunglider.png",
@@ -7376,7 +7376,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Glormy Leo",
-        "score": 79,
+        "score": 78,
         "id": 245
     }, {
         "image": "/images/pets/Glormy Hound.png",
@@ -7406,7 +7406,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Glormy Hound",
-        "score": 92,
+        "score": 91,
         "id": 246
     }, {
         "image": "/images/pets/Shark.png",
@@ -7526,7 +7526,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Fallow Deer",
-        "score": 58,
+        "score": 57,
         "id": 250
     }, {
         "image": "/images/pets/Winged Horse.png",
@@ -7556,7 +7556,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Winged Horse",
-        "score": 148,
+        "score": 145,
         "id": 251
     }, {
         "image": "/images/pets/Owlbear.png",
@@ -7616,7 +7616,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Diamond Ladybug",
-        "score": 96,
+        "score": 95,
         "id": 253
     }, {
         "image": "/images/pets/Majestic Pony.png",
@@ -7646,7 +7646,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Majestic Pony",
-        "score": 83,
+        "score": 82,
         "id": 254
     }, {
         "image": "/images/pets/Cheetah.png",
@@ -7676,7 +7676,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Cheetah",
-        "score": 88,
+        "score": 87,
         "id": 255
     }, {
         "image": "/images/pets/Leviathan.png",
@@ -7706,7 +7706,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Leviathan",
-        "score": 97,
+        "score": 96,
         "id": 256
     }, {
         "image": "/images/pets/Golden Rat.png",
@@ -7800,22 +7800,22 @@
         "id": 259
     }, {
         "image": "/images/pets/Diamond Dragon.png",
-        "rvalue": 0.32,
-        "nvalue": 2.6,
-        "mvalue": 11,
+        "rvalue": 0.29,
+        "nvalue": 2.45,
+        "mvalue": 10.25,
         "status": "Ready",
-        "rvalue - nopotion": 0.32,
-        "rvalue - ride": 0.62,
-        "rvalue - fly": 0.62,
-        "rvalue - fly&ride": 1.02,
-        "nvalue - nopotion": 1.45,
-        "nvalue - ride": 1.8,
-        "nvalue - fly": 1.8,
-        "nvalue - fly&ride": 2.6,
-        "mvalue - nopotion": 8,
-        "mvalue - ride": 9,
-        "mvalue - fly": 9.9,
-        "mvalue - fly&ride": 11,
+        "rvalue - nopotion": 0.29,
+        "rvalue - ride": 0.59,
+        "rvalue - fly": 0.59,
+        "rvalue - fly&ride": 0.99,
+        "nvalue - nopotion": 1.35,
+        "nvalue - ride": 1.65,
+        "nvalue - fly": 1.65,
+        "nvalue - fly&ride": 2.45,
+        "mvalue - nopotion": 7.25,
+        "mvalue - ride": 8.25,
+        "mvalue - fly": 9.15,
+        "mvalue - fly&ride": 10.25,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -7826,7 +7826,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Diamond Dragon",
-        "score": 205,
+        "score": 206,
         "id": 260
     }, {
         "image": "/images/pets/Octopus.png",
@@ -7886,7 +7886,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Royal Capuchin Monkey",
-        "score": 138,
+        "score": 137,
         "id": 262
     }, {
         "image": "/images/pets/Naga Dragon.png",
@@ -7946,7 +7946,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Tree Kangaroo",
-        "score": 87,
+        "score": 86,
         "id": 264
     }, {
         "image": "/images/pets/Candy Hare.png",
@@ -7976,7 +7976,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Candy Hare",
-        "score": 91,
+        "score": 90,
         "id": 265
     }, {
         "image": "/images/pets/Cactus Friend.png",
@@ -8066,7 +8066,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden Walrus",
-        "score": 137,
+        "score": 136,
         "id": 268
     }, {
         "image": "/images/pets/Firefly.png",
@@ -8156,7 +8156,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Chameleon",
-        "score": 150,
+        "score": 148,
         "id": 271
     }, {
         "image": "/images/pets/Astronaut Gorilla.png",
@@ -8222,7 +8222,7 @@
         "image": "/images/pets/Gargoyle.png",
         "rvalue": 0.8,
         "nvalue": 5.6,
-        "mvalue": 24,
+        "mvalue": 23,
         "status": "Ready",
         "rvalue - nopotion": 0.8,
         "rvalue - ride": 1.1,
@@ -8232,10 +8232,10 @@
         "nvalue - ride": 4.8,
         "nvalue - fly": 4.8,
         "nvalue - fly&ride": 5.6,
-        "mvalue - nopotion": 21,
-        "mvalue - ride": 22,
-        "mvalue - fly": 22.9,
-        "mvalue - fly&ride": 24,
+        "mvalue - nopotion": 20,
+        "mvalue - ride": 21,
+        "mvalue - fly": 21.9,
+        "mvalue - fly&ride": 23,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -8246,7 +8246,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Gargoyle",
-        "score": 136,
+        "score": 139,
         "id": 274
     }, {
         "image": "/images/pets/Volcanic Rhino.png",
@@ -8276,26 +8276,26 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Volcanic Rhino",
-        "score": 139,
+        "score": 138,
         "id": 275
     }, {
         "image": "/images/pets/Black Chow-Chow.png",
-        "rvalue": 0.75,
-        "nvalue": 5.25,
-        "mvalue": 22,
+        "rvalue": 0.7,
+        "nvalue": 4.9,
+        "mvalue": 21,
         "status": "Ready",
-        "rvalue - nopotion": 0.75,
-        "rvalue - ride": 1.05,
-        "rvalue - fly": 1.05,
-        "rvalue - fly&ride": 1.45,
-        "nvalue - nopotion": 3.6,
-        "nvalue - ride": 4.45,
-        "nvalue - fly": 4.45,
-        "nvalue - fly&ride": 5.25,
-        "mvalue - nopotion": 19,
-        "mvalue - ride": 20,
-        "mvalue - fly": 20.9,
-        "mvalue - fly&ride": 22,
+        "rvalue - nopotion": 0.7,
+        "rvalue - ride": 1,
+        "rvalue - fly": 1,
+        "rvalue - fly&ride": 1.4,
+        "nvalue - nopotion": 3.4,
+        "nvalue - ride": 4.100000000000001,
+        "nvalue - fly": 4.100000000000001,
+        "nvalue - fly&ride": 4.9,
+        "mvalue - nopotion": 18,
+        "mvalue - ride": 19,
+        "mvalue - fly": 19.9,
+        "mvalue - fly&ride": 21,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -8306,26 +8306,26 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Black Chow-Chow",
-        "score": 141,
+        "score": 146,
         "id": 276
     }, {
         "image": "/images/pets/Chocolate Chow-Chow.png",
-        "rvalue": 0.75,
-        "nvalue": 5.25,
-        "mvalue": 22,
+        "rvalue": 0.7,
+        "nvalue": 4.9,
+        "mvalue": 21,
         "status": "Ready",
-        "rvalue - nopotion": 0.75,
-        "rvalue - ride": 1.05,
-        "rvalue - fly": 1.05,
-        "rvalue - fly&ride": 1.45,
-        "nvalue - nopotion": 3.6,
-        "nvalue - ride": 4.45,
-        "nvalue - fly": 4.45,
-        "nvalue - fly&ride": 5.25,
-        "mvalue - nopotion": 19,
-        "mvalue - ride": 20,
-        "mvalue - fly": 20.9,
-        "mvalue - fly&ride": 22,
+        "rvalue - nopotion": 0.7,
+        "rvalue - ride": 1,
+        "rvalue - fly": 1,
+        "rvalue - fly&ride": 1.4,
+        "nvalue - nopotion": 3.4,
+        "nvalue - ride": 4.100000000000001,
+        "nvalue - fly": 4.100000000000001,
+        "nvalue - fly&ride": 4.9,
+        "mvalue - nopotion": 18,
+        "mvalue - ride": 19,
+        "mvalue - fly": 19.9,
+        "mvalue - fly&ride": 21,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -8336,26 +8336,26 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Chocolate Chow-Chow",
-        "score": 142,
+        "score": 149,
         "id": 277
     }, {
         "image": "/images/pets/Green-Chested Pheasant.png",
-        "rvalue": 0.7,
-        "nvalue": 4.9,
-        "mvalue": 20,
+        "rvalue": 0.65,
+        "nvalue": 4.55,
+        "mvalue": 19,
         "status": "Ready",
-        "rvalue - nopotion": 0.7,
-        "rvalue - ride": 1,
-        "rvalue - fly": 1,
-        "rvalue - fly&ride": 1.4,
-        "nvalue - nopotion": 3.15,
-        "nvalue - ride": 4.100000000000001,
-        "nvalue - fly": 4.100000000000001,
-        "nvalue - fly&ride": 4.9,
-        "mvalue - nopotion": 17,
-        "mvalue - ride": 18,
-        "mvalue - fly": 18.9,
-        "mvalue - fly&ride": 20,
+        "rvalue - nopotion": 0.65,
+        "rvalue - ride": 0.95,
+        "rvalue - fly": 0.95,
+        "rvalue - fly&ride": 1.35,
+        "nvalue - nopotion": 2.95,
+        "nvalue - ride": 3.75,
+        "nvalue - fly": 3.75,
+        "nvalue - fly&ride": 4.55,
+        "mvalue - nopotion": 16,
+        "mvalue - ride": 17,
+        "mvalue - fly": 17.9,
+        "mvalue - fly&ride": 19,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -8366,7 +8366,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Green-Chested Pheasant",
-        "score": 155,
+        "score": 158,
         "id": 278
     }, {
         "image": "/images/pets/Axolotl.png",
@@ -8430,22 +8430,22 @@
         "id": 280
     }, {
         "image": "/images/pets/Diamond Griffin.png",
-        "rvalue": 0.3,
-        "nvalue": 2.5,
-        "mvalue": 10.5,
+        "rvalue": 0.27,
+        "nvalue": 2.35,
+        "mvalue": 9.75,
         "status": "Ready",
-        "rvalue - nopotion": 0.3,
-        "rvalue - ride": 0.6,
-        "rvalue - fly": 0.6,
-        "rvalue - fly&ride": 1,
-        "nvalue - nopotion": 1.35,
-        "nvalue - ride": 1.8,
-        "nvalue - fly": 1.8,
-        "nvalue - fly&ride": 2.5,
-        "mvalue - nopotion": 7.5,
-        "mvalue - ride": 8.5,
-        "mvalue - fly": 9.4,
-        "mvalue - fly&ride": 10.5,
+        "rvalue - nopotion": 0.27,
+        "rvalue - ride": 0.5700000000000001,
+        "rvalue - fly": 0.5700000000000001,
+        "rvalue - fly&ride": 0.97,
+        "nvalue - nopotion": 1.25,
+        "nvalue - ride": 1.65,
+        "nvalue - fly": 1.65,
+        "nvalue - fly&ride": 2.35,
+        "mvalue - nopotion": 6.75,
+        "mvalue - ride": 7.75,
+        "mvalue - fly": 8.65,
+        "mvalue - fly&ride": 9.75,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -8456,26 +8456,26 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Diamond Griffin",
-        "score": 206,
+        "score": 208,
         "id": 281
     }, {
         "image": "/images/pets/Golden Unicorn.png",
-        "rvalue": 0.35,
-        "nvalue": 2.75,
-        "mvalue": 11.75,
+        "rvalue": 0.27,
+        "nvalue": 2.35,
+        "mvalue": 9.75,
         "status": "Ready",
-        "rvalue - nopotion": 0.35,
-        "rvalue - ride": 0.6499999999999999,
-        "rvalue - fly": 0.6499999999999999,
-        "rvalue - fly&ride": 1.05,
-        "nvalue - nopotion": 1.6,
-        "nvalue - ride": 1.95,
-        "nvalue - fly": 1.95,
-        "nvalue - fly&ride": 2.75,
-        "mvalue - nopotion": 8.75,
-        "mvalue - ride": 9.75,
-        "mvalue - fly": 10.65,
-        "mvalue - fly&ride": 11.75,
+        "rvalue - nopotion": 0.27,
+        "rvalue - ride": 0.5700000000000001,
+        "rvalue - fly": 0.5700000000000001,
+        "rvalue - fly&ride": 0.97,
+        "nvalue - nopotion": 1.25,
+        "nvalue - ride": 1.55,
+        "nvalue - fly": 1.55,
+        "nvalue - fly&ride": 2.35,
+        "mvalue - nopotion": 6.75,
+        "mvalue - ride": 7.75,
+        "mvalue - fly": 8.65,
+        "mvalue - fly&ride": 9.75,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -8486,7 +8486,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden Unicorn",
-        "score": 201,
+        "score": 209,
         "id": 282
     }, {
         "image": "/images/pets/Lava Wolf.png",
@@ -8580,22 +8580,22 @@
         "id": 285
     }, {
         "image": "/images/pets/King Bee.png",
-        "rvalue": 0.7,
-        "nvalue": 4.9,
-        "mvalue": 20,
+        "rvalue": 0.65,
+        "nvalue": 4.55,
+        "mvalue": 19,
         "status": "Ready",
-        "rvalue - nopotion": 0.7,
-        "rvalue - ride": 1,
-        "rvalue - fly": 1,
-        "rvalue - fly&ride": 1.4,
-        "nvalue - nopotion": 3.15,
-        "nvalue - ride": 4.100000000000001,
-        "nvalue - fly": 4.100000000000001,
-        "nvalue - fly&ride": 4.9,
-        "mvalue - nopotion": 17,
-        "mvalue - ride": 18,
-        "mvalue - fly": 18.9,
-        "mvalue - fly&ride": 20,
+        "rvalue - nopotion": 0.65,
+        "rvalue - ride": 0.95,
+        "rvalue - fly": 0.95,
+        "rvalue - fly&ride": 1.35,
+        "nvalue - nopotion": 2.95,
+        "nvalue - ride": 3.75,
+        "nvalue - fly": 3.75,
+        "nvalue - fly&ride": 4.55,
+        "mvalue - nopotion": 16,
+        "mvalue - ride": 17,
+        "mvalue - fly": 17.9,
+        "mvalue - fly&ride": 19,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -8606,7 +8606,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "King Bee",
-        "score": 157,
+        "score": 162,
         "id": 286
     }, {
         "image": "/images/pets/Golden King Penguin.png",
@@ -8636,7 +8636,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden King Penguin",
-        "score": 160,
+        "score": 157,
         "id": 287
     }, {
         "image": "/images/pets/Golden Albatross.png",
@@ -8756,26 +8756,26 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Snow Owl",
-        "score": 147,
+        "score": 143,
         "id": 291
     }, {
         "image": "/images/pets/Guardian Lion.png",
-        "rvalue": 0.7,
-        "nvalue": 4.9,
-        "mvalue": 20,
+        "rvalue": 0.65,
+        "nvalue": 4.55,
+        "mvalue": 19,
         "status": "Ready",
-        "rvalue - nopotion": 0.7,
-        "rvalue - ride": 1,
-        "rvalue - fly": 1,
-        "rvalue - fly&ride": 1.4,
-        "nvalue - nopotion": 3.15,
-        "nvalue - ride": 4.100000000000001,
-        "nvalue - fly": 4.100000000000001,
-        "nvalue - fly&ride": 4.9,
-        "mvalue - nopotion": 17,
-        "mvalue - ride": 18,
-        "mvalue - fly": 18.9,
-        "mvalue - fly&ride": 20,
+        "rvalue - nopotion": 0.65,
+        "rvalue - ride": 0.95,
+        "rvalue - fly": 0.95,
+        "rvalue - fly&ride": 1.35,
+        "nvalue - nopotion": 2.95,
+        "nvalue - ride": 3.75,
+        "nvalue - fly": 3.75,
+        "nvalue - fly&ride": 4.55,
+        "mvalue - nopotion": 16,
+        "mvalue - ride": 17,
+        "mvalue - fly": 17.9,
+        "mvalue - fly&ride": 19,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -8786,26 +8786,26 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Guardian Lion",
-        "score": 156,
+        "score": 159,
         "id": 292
     }, {
         "image": "/images/pets/Golden Ladybug.png",
-        "rvalue": 0.75,
-        "nvalue": 5.25,
-        "mvalue": 22,
+        "rvalue": 0.7,
+        "nvalue": 4.9,
+        "mvalue": 21,
         "status": "Ready",
-        "rvalue - nopotion": 0.75,
-        "rvalue - ride": 1.05,
-        "rvalue - fly": 1.05,
-        "rvalue - fly&ride": 1.45,
-        "nvalue - nopotion": 3.6,
-        "nvalue - ride": 4.45,
-        "nvalue - fly": 4.45,
-        "nvalue - fly&ride": 5.25,
-        "mvalue - nopotion": 19,
-        "mvalue - ride": 20,
-        "mvalue - fly": 20.9,
-        "mvalue - fly&ride": 22,
+        "rvalue - nopotion": 0.7,
+        "rvalue - ride": 1,
+        "rvalue - fly": 1,
+        "rvalue - fly&ride": 1.4,
+        "nvalue - nopotion": 3.4,
+        "nvalue - ride": 4.100000000000001,
+        "nvalue - fly": 4.100000000000001,
+        "nvalue - fly&ride": 4.9,
+        "mvalue - nopotion": 18,
+        "mvalue - ride": 19,
+        "mvalue - fly": 19.9,
+        "mvalue - fly&ride": 21,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -8816,7 +8816,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden Ladybug",
-        "score": 144,
+        "score": 150,
         "id": 293
     }, {
         "image": "/images/pets/Pirate Hermit Crab.png",
@@ -8906,7 +8906,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Hawk",
-        "score": 161,
+        "score": 160,
         "id": 296
     }, {
         "image": "/images/pets/Yule Log Dog.png",
@@ -8966,7 +8966,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Shetland Pony Light Brown",
-        "score": 146,
+        "score": 142,
         "id": 298
     }, {
         "image": "/images/pets/Mushroom Friend.png",
@@ -9146,7 +9146,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Corn Doggo",
-        "score": 89,
+        "score": 88,
         "id": 304
     }, {
         "image": "/images/pets/Diamond Mahi Mahi.png",
@@ -9176,7 +9176,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Diamond Mahi Mahi",
-        "score": 207,
+        "score": 204,
         "id": 305
     }, {
         "image": "/images/pets/Chimera.png",
@@ -9236,7 +9236,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Billy Goat",
-        "score": 158,
+        "score": 155,
         "id": 307
     }, {
         "image": "/images/pets/Fleur De Ice.png",
@@ -9300,22 +9300,22 @@
         "id": 309
     }, {
         "image": "/images/pets/Golden Dragon.png",
-        "rvalue": 0.23,
-        "nvalue": 2.15,
-        "mvalue": 8.75,
+        "rvalue": 0.2,
+        "nvalue": 2,
+        "mvalue": 8,
         "status": "Ready",
-        "rvalue - nopotion": 0.23,
-        "rvalue - ride": 0.53,
-        "rvalue - fly": 0.53,
-        "rvalue - fly&ride": 0.9299999999999999,
-        "nvalue - nopotion": 1.05,
-        "nvalue - ride": 1.45,
-        "nvalue - fly": 1.45,
-        "nvalue - fly&ride": 2.15,
-        "mvalue - nopotion": 5.75,
-        "mvalue - ride": 6.75,
-        "mvalue - fly": 7.65,
-        "mvalue - fly&ride": 8.75,
+        "rvalue - nopotion": 0.2,
+        "rvalue - ride": 0.5,
+        "rvalue - fly": 0.5,
+        "rvalue - fly&ride": 0.8999999999999999,
+        "nvalue - nopotion": 0.9,
+        "nvalue - ride": 1.3,
+        "nvalue - fly": 1.3,
+        "nvalue - fly&ride": 2,
+        "mvalue - nopotion": 5,
+        "mvalue - ride": 6,
+        "mvalue - fly": 6.9,
+        "mvalue - fly&ride": 8,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -9326,7 +9326,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden Dragon",
-        "score": 214,
+        "score": 217,
         "id": 310
     }, {
         "image": "/images/pets/Dire Stag.png",
@@ -9506,7 +9506,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Striped Eggy",
-        "score": 204,
+        "score": 203,
         "id": 316
     }, {
         "image": "/images/pets/Blue Betta Fish.png",
@@ -9540,22 +9540,22 @@
         "id": 317
     }, {
         "image": "/images/pets/Golden Griffin.png",
-        "rvalue": 0.22,
-        "nvalue": 2.1,
-        "mvalue": 8.5,
+        "rvalue": 0.19,
+        "nvalue": 1.95,
+        "mvalue": 7.75,
         "status": "Ready",
-        "rvalue - nopotion": 0.22,
-        "rvalue - ride": 0.52,
-        "rvalue - fly": 0.52,
-        "rvalue - fly&ride": 0.9199999999999999,
-        "nvalue - nopotion": 1,
-        "nvalue - ride": 1.4,
-        "nvalue - fly": 1.4,
-        "nvalue - fly&ride": 2.1,
-        "mvalue - nopotion": 5.5,
-        "mvalue - ride": 6.5,
-        "mvalue - fly": 7.4,
-        "mvalue - fly&ride": 8.5,
+        "rvalue - nopotion": 0.19,
+        "rvalue - ride": 0.49,
+        "rvalue - fly": 0.49,
+        "rvalue - fly&ride": 0.8899999999999999,
+        "nvalue - nopotion": 0.9,
+        "nvalue - ride": 1.25,
+        "nvalue - fly": 1.25,
+        "nvalue - fly&ride": 1.95,
+        "mvalue - nopotion": 4.75,
+        "mvalue - ride": 5.75,
+        "mvalue - fly": 6.65,
+        "mvalue - fly&ride": 7.75,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -9566,7 +9566,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden Griffin",
-        "score": 215,
+        "score": 218,
         "id": 318
     }, {
         "image": "/images/pets/Rosy Maple Moth.png",
@@ -9596,7 +9596,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Rosy Maple Moth",
-        "score": 203,
+        "score": 202,
         "id": 319
     }, {
         "image": "/images/pets/Cobra.png",
@@ -9986,7 +9986,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Lunar Gold Tiger",
-        "score": 209,
+        "score": 207,
         "id": 332
     }, {
         "image": "/images/pets/Golden Tortoise Beetle.png",
@@ -10016,7 +10016,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Golden Tortoise Beetle",
-        "score": 224,
+        "score": 219,
         "id": 333
     }, {
         "image": "/images/pets/Dracula Parrot.png",
@@ -10046,7 +10046,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Dracula Parrot",
-        "score": 218,
+        "score": 216,
         "id": 334
     }, {
         "image": "/images/pets/Metal Ox.png",
@@ -10106,7 +10106,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Zodiac Minion Chick",
-        "score": 216,
+        "score": 214,
         "id": 336
     }, {
         "image": "/images/pets/Cow.png",
@@ -10260,18 +10260,18 @@
         "id": 341
     }, {
         "image": "/images/pets/Goose.png",
-        "rvalue": 25,
-        "nvalue": 74,
+        "rvalue": 25.5,
+        "nvalue": 75,
         "mvalue": 278,
         "status": "Ready",
-        "rvalue - nopotion": 23.5,
-        "rvalue - ride": 24,
-        "rvalue - fly": 24.1,
-        "rvalue - fly&ride": 25,
-        "nvalue - nopotion": 72.5,
-        "nvalue - ride": 73.25,
-        "nvalue - fly": 73.25,
-        "nvalue - fly&ride": 74,
+        "rvalue - nopotion": 24,
+        "rvalue - ride": 24.5,
+        "rvalue - fly": 24.6,
+        "rvalue - fly&ride": 25.5,
+        "nvalue - nopotion": 73.5,
+        "nvalue - ride": 74.25,
+        "nvalue - fly": 74.25,
+        "nvalue - fly&ride": 75,
         "mvalue - nopotion": 276,
         "mvalue - ride": 276,
         "mvalue - fly": 276.9,
@@ -10796,7 +10796,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Moonpine",
-        "score": 112,
+        "score": 111,
         "id": 359
     }, {
         "image": "/images/pets/Zeopod.png",
@@ -10826,26 +10826,26 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Zeopod",
-        "score": 116,
+        "score": 115,
         "id": 360
     }, {
         "image": "/images/pets/Lynx.png",
-        "rvalue": 0.7,
-        "nvalue": 4.25,
-        "mvalue": 18,
+        "rvalue": 0.73,
+        "nvalue": 4.4,
+        "mvalue": 18.6,
         "status": "Ready",
-        "rvalue - nopotion": 0.7,
-        "rvalue - ride": 0.92,
-        "rvalue - fly": 0.92,
-        "rvalue - fly&ride": 1.2,
-        "nvalue - nopotion": 3.5,
-        "nvalue - ride": 3.88,
-        "nvalue - fly": 3.88,
-        "nvalue - fly&ride": 4.25,
-        "mvalue - nopotion": 15,
-        "mvalue - ride": 16,
-        "mvalue - fly": 16.9,
-        "mvalue - fly&ride": 18,
+        "rvalue - nopotion": 0.73,
+        "rvalue - ride": 0.9500000000000001,
+        "rvalue - fly": 0.9500000000000001,
+        "rvalue - fly&ride": 1.23,
+        "nvalue - nopotion": 3.65,
+        "nvalue - ride": 4.03,
+        "nvalue - fly": 4.03,
+        "nvalue - fly&ride": 4.4,
+        "mvalue - nopotion": 15.6,
+        "mvalue - ride": 16.6,
+        "mvalue - fly": 17.5,
+        "mvalue - fly&ride": 18.6,
         "fly&ride?": "\"false\"",
         "rarity": "rare",
         "type": "pets",
@@ -10916,7 +10916,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Nebula Snake",
-        "score": 72,
+        "score": 71,
         "id": 363
     }, {
         "image": "/images/pets/Blossom Snake.png",
@@ -10946,7 +10946,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Blossom Snake",
-        "score": 71,
+        "score": 70,
         "id": 364
     }, {
         "image": "/images/pets/Prism Snake.png",
@@ -10976,7 +10976,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Prism Snake",
-        "score": 73,
+        "score": 72,
         "id": 365
     }, {
         "image": "/images/pets/Cow Calf.png",
@@ -11186,7 +11186,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Starhopper",
-        "score": 65,
+        "score": 64,
         "id": 372
     }, {
         "image": "/images/pets/Singularity Pisces.png",
@@ -11216,7 +11216,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Singularity Pisces",
-        "score": 64,
+        "score": 63,
         "id": 373
     }, {
         "image": "/images/pets/Singularity Beetle.png",
@@ -11246,7 +11246,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Singularity Beetle",
-        "score": 63,
+        "score": 62,
         "id": 374
     }, {
         "image": "/images/pets/Longhorn Cow.png",
@@ -11306,7 +11306,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Marabou Stork",
-        "score": 84,
+        "score": 83,
         "id": 376
     }, {
         "image": "/images/pets/Cassowary.png",
@@ -11366,7 +11366,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Rat",
-        "score": 61,
+        "score": 60,
         "id": 378
     }, {
         "image": "/images/pets/Nutcracker Squirrel.png",
@@ -11396,7 +11396,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Nutcracker Squirrel",
-        "score": 69,
+        "score": 68,
         "id": 379
     }, {
         "image": "/images/pets/Kiwi.png",
@@ -11456,7 +11456,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Basilisk",
-        "score": 77,
+        "score": 76,
         "id": 381
     }, {
         "image": "/images/pets/Sasquatch.png",
@@ -11486,7 +11486,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Sasquatch",
-        "score": 62,
+        "score": 61,
         "id": 382
     }, {
         "image": "/images/pets/Tasmanian Devil.png",
@@ -11546,7 +11546,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Sea Angel",
-        "score": 90,
+        "score": 89,
         "id": 384
     }, {
         "image": "/images/pets/Halloween Evil Dachshund.png",
@@ -11666,7 +11666,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Punk Pony",
-        "score": 70,
+        "score": 69,
         "id": 388
     }, {
         "image": "/images/pets/Steppe Lion.png",
@@ -11696,7 +11696,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Steppe Lion",
-        "score": 74,
+        "score": 73,
         "id": 389
     }, {
         "image": "/images/pets/Undead Elk.png",
@@ -11726,7 +11726,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Undead Elk",
-        "score": 75,
+        "score": 74,
         "id": 390
     }, {
         "image": "/images/pets/Bird Of Paradise.png",
@@ -11786,7 +11786,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Winter Fawn",
-        "score": 103,
+        "score": 102,
         "id": 392
     }, {
         "image": "/images/pets/Goldfish.png",
@@ -11996,7 +11996,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ibex",
-        "score": 59,
+        "score": 58,
         "id": 399
     }, {
         "image": "/images/pets/Ostrich.png",
@@ -12086,7 +12086,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Eggnog Hare",
-        "score": 88,
+        "score": 87,
         "id": 402
     }, {
         "image": "/images/pets/Happy Duckling.png",
@@ -12146,7 +12146,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ice Cube",
-        "score": 99,
+        "score": 98,
         "id": 404
     }, {
         "image": "/images/pets/Blue Jay.png",
@@ -12176,7 +12176,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Blue Jay",
-        "score": 117,
+        "score": 116,
         "id": 405
     }, {
         "image": "/images/pets/Weevil.png",
@@ -12206,7 +12206,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Weevil",
-        "score": 125,
+        "score": 124,
         "id": 406
     }, {
         "image": "/images/pets/Capuchin Monkey.png",
@@ -12236,7 +12236,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Capuchin Monkey",
-        "score": 105,
+        "score": 104,
         "id": 407
     }, {
         "image": "/images/pets/Emu.png",
@@ -12266,7 +12266,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Emu",
-        "score": 83,
+        "score": 82,
         "id": 408
     }, {
         "image": "/images/pets/Pterodactyl.png",
@@ -12296,7 +12296,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Pterodactyl",
-        "score": 81,
+        "score": 80,
         "id": 409
     }, {
         "image": "/images/pets/Woolly Mammoth.png",
@@ -12326,7 +12326,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Woolly Mammoth",
-        "score": 86,
+        "score": 85,
         "id": 410
     }, {
         "image": "/images/pets/Dilophosaurus.png",
@@ -12356,7 +12356,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Dilophosaurus",
-        "score": 78,
+        "score": 77,
         "id": 411
     }, {
         "image": "/images/pets/Bloodhound.png",
@@ -12386,7 +12386,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Bloodhound",
-        "score": 67,
+        "score": 66,
         "id": 412
     }, {
         "image": "/images/pets/Oryx.png",
@@ -12416,7 +12416,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Oryx",
-        "score": 107,
+        "score": 106,
         "id": 413
     }, {
         "image": "/images/pets/Thorny Devil.png",
@@ -12446,7 +12446,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Thorny Devil",
-        "score": 109,
+        "score": 108,
         "id": 414
     }, {
         "image": "/images/pets/Gorilla.png",
@@ -12506,7 +12506,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Merhorse",
-        "score": 94,
+        "score": 93,
         "id": 416
     }, {
         "image": "/images/pets/Moon Rabbit.png",
@@ -12540,22 +12540,22 @@
         "id": 417
     }, {
         "image": "/images/pets/Ocelot.png",
-        "rvalue": 0.05,
-        "nvalue": 1,
-        "mvalue": 3.5,
+        "rvalue": 0.04,
+        "nvalue": 0.95,
+        "mvalue": 3.25,
         "status": "Ready",
-        "rvalue - nopotion": 0.05,
-        "rvalue - ride": 0.25,
-        "rvalue - fly": 0.25,
-        "rvalue - fly&ride": 0.5,
-        "nvalue - nopotion": 0.45,
-        "nvalue - ride": 0.73,
-        "nvalue - fly": 0.73,
-        "nvalue - fly&ride": 1,
-        "mvalue - nopotion": 2,
-        "mvalue - ride": 2.75,
-        "mvalue - fly": 2.75,
-        "mvalue - fly&ride": 3.5,
+        "rvalue - nopotion": 0.04,
+        "rvalue - ride": 0.24,
+        "rvalue - fly": 0.24,
+        "rvalue - fly&ride": 0.49,
+        "nvalue - nopotion": 0.3999999999999999,
+        "nvalue - ride": 0.68,
+        "nvalue - fly": 0.68,
+        "nvalue - fly&ride": 0.95,
+        "mvalue - nopotion": 1.75,
+        "mvalue - ride": 2.5,
+        "mvalue - fly": 2.5,
+        "mvalue - fly&ride": 3.25,
         "fly&ride?": "\"false\"",
         "rarity": "rare",
         "type": "pets",
@@ -12566,7 +12566,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ocelot",
-        "score": 124,
+        "score": 128,
         "id": 418
     }, {
         "image": "/images/pets/Australian Kelpie.png",
@@ -12596,7 +12596,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Australian Kelpie",
-        "score": 82,
+        "score": 81,
         "id": 419
     }, {
         "image": "/images/pets/Ankylosaurus.png",
@@ -12626,7 +12626,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ankylosaurus",
-        "score": 76,
+        "score": 75,
         "id": 420
     }, {
         "image": "/images/pets/Scarecrow Horse.png",
@@ -12656,7 +12656,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Scarecrow Horse",
-        "score": 96,
+        "score": 95,
         "id": 421
     }, {
         "image": "/images/pets/Narwhal.png",
@@ -12686,7 +12686,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Narwhal",
-        "score": 80,
+        "score": 79,
         "id": 422
     }, {
         "image": "/images/pets/Ghost Wolf.png",
@@ -12716,7 +12716,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ghost Wolf",
-        "score": 93,
+        "score": 92,
         "id": 423
     }, {
         "image": "/images/pets/Dotted Eggy.png",
@@ -12746,7 +12746,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Dotted Eggy",
-        "score": 111,
+        "score": 110,
         "id": 424
     }, {
         "image": "/images/pets/Castle Hermit Crab.png",
@@ -12806,7 +12806,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Seahorse",
-        "score": 91,
+        "score": 90,
         "id": 426
     }, {
         "image": "/images/pets/Black Moon Bear.png",
@@ -12836,7 +12836,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Black Moon Bear",
-        "score": 92,
+        "score": 91,
         "id": 427
     }, {
         "image": "/images/pets/Halloween White Mummy Cat.png",
@@ -12866,7 +12866,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Halloween White Mummy Cat",
-        "score": 79,
+        "score": 78,
         "id": 428
     }, {
         "image": "/images/pets/Ibis.png",
@@ -12896,7 +12896,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ibis",
-        "score": 98,
+        "score": 97,
         "id": 429
     }, {
         "image": "/images/pets/Woodpecker.png",
@@ -12926,7 +12926,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Woodpecker",
-        "score": 104,
+        "score": 103,
         "id": 430
     }, {
         "image": "/images/pets/Poison Dart Frog.png",
@@ -12956,7 +12956,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Poison Dart Frog",
-        "score": 101,
+        "score": 100,
         "id": 431
     }, {
         "image": "/images/pets/Monkey.png",
@@ -12986,7 +12986,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Monkey",
-        "score": 85,
+        "score": 84,
         "id": 432
     }, {
         "image": "/images/pets/Red Fox.png",
@@ -13020,22 +13020,22 @@
         "id": 433
     }, {
         "image": "/images/pets/Abyssinian Cat.png",
-        "rvalue": 0.05,
-        "nvalue": 1,
-        "mvalue": 3.5,
+        "rvalue": 0.04,
+        "nvalue": 0.95,
+        "mvalue": 3.25,
         "status": "Ready",
-        "rvalue - nopotion": 0.05,
-        "rvalue - ride": 0.25,
-        "rvalue - fly": 0.25,
-        "rvalue - fly&ride": 0.5,
-        "nvalue - nopotion": 0.45,
-        "nvalue - ride": 0.73,
-        "nvalue - fly": 0.73,
-        "nvalue - fly&ride": 1,
-        "mvalue - nopotion": 2,
-        "mvalue - ride": 2.75,
-        "mvalue - fly": 2.75,
-        "mvalue - fly&ride": 3.5,
+        "rvalue - nopotion": 0.04,
+        "rvalue - ride": 0.24,
+        "rvalue - fly": 0.24,
+        "rvalue - fly&ride": 0.49,
+        "nvalue - nopotion": 0.3999999999999999,
+        "nvalue - ride": 0.68,
+        "nvalue - fly": 0.68,
+        "nvalue - fly&ride": 0.95,
+        "mvalue - nopotion": 1.75,
+        "mvalue - ride": 2.5,
+        "mvalue - fly": 2.5,
+        "mvalue - fly&ride": 3.25,
         "fly&ride?": "\"false\"",
         "rarity": "rare",
         "type": "pets",
@@ -13046,7 +13046,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Abyssinian Cat",
-        "score": 121,
+        "score": 125,
         "id": 434
     }, {
         "image": "/images/pets/Zebra.png",
@@ -13106,7 +13106,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Yellow Butterfly",
-        "score": 97,
+        "score": 96,
         "id": 436
     }, {
         "image": "/images/pets/Indian Leopard.png",
@@ -13136,7 +13136,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Indian Leopard",
-        "score": 100,
+        "score": 99,
         "id": 437
     }, {
         "image": "/images/pets/Toy Poodle.png",
@@ -13196,7 +13196,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Orange Betta Fish",
-        "score": 119,
+        "score": 118,
         "id": 439
     }, {
         "image": "/images/pets/Zombie Chick.png",
@@ -13226,7 +13226,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Zombie Chick",
-        "score": 110,
+        "score": 109,
         "id": 440
     }, {
         "image": "/images/pets/Shetland Pony Dark Brown.png",
@@ -13256,7 +13256,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Shetland Pony Dark Brown",
-        "score": 113,
+        "score": 112,
         "id": 441
     }, {
         "image": "/images/pets/Orangutan.png",
@@ -13436,7 +13436,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Lunar Tiger",
-        "score": 118,
+        "score": 117,
         "id": 447
     }, {
         "image": "/images/pets/Beaver.png",
@@ -13496,7 +13496,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ox",
-        "score": 120,
+        "score": 119,
         "id": 449
     }, {
         "image": "/images/pets/Chicken.png",
@@ -13706,7 +13706,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Hopbop",
-        "score": 17,
+        "score": 18,
         "id": 456
     }, {
         "image": "/images/pets/Maleo Bird.png",
@@ -13736,7 +13736,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Maleo Bird",
-        "score": 27,
+        "score": 28,
         "id": 457
     }, {
         "image": "/images/pets/Tasmanian Tiger.png",
@@ -13766,7 +13766,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Tasmanian Tiger",
-        "score": 15,
+        "score": 16,
         "id": 458
     }, {
         "image": "/images/pets/Ground Sloth.png",
@@ -13796,7 +13796,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ground Sloth",
-        "score": 13,
+        "score": 14,
         "id": 459
     }, {
         "image": "/images/pets/Ghost.png",
@@ -13826,7 +13826,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"true\"",
         "name": "Ghost",
-        "score": 16,
+        "score": 17,
         "id": 460
     }, {
         "image": "/images/pets/Urchin.png",
@@ -13856,7 +13856,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"true\"",
         "name": "Urchin",
-        "score": 19,
+        "score": 20,
         "id": 461
     }, {
         "image": "/images/pets/Brachiosaurus.png",
@@ -13976,7 +13976,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Kid Goat",
-        "score": 22,
+        "score": 23,
         "id": 465
     }, {
         "image": "/images/pets/Mongoose.png",
@@ -14006,7 +14006,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Mongoose",
-        "score": 12,
+        "score": 13,
         "id": 466
     }, {
         "image": "/images/pets/Bali Starling.png",
@@ -14036,7 +14036,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Bali Starling",
-        "score": 25,
+        "score": 26,
         "id": 467
     }, {
         "image": "/images/pets/Stingray.png",
@@ -14066,7 +14066,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Stingray",
-        "score": 14,
+        "score": 15,
         "id": 468
     }, {
         "image": "/images/pets/Wolpertinger.png",
@@ -14096,7 +14096,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Wolpertinger",
-        "score": 30,
+        "score": 31,
         "id": 469
     }, {
         "image": "/images/pets/Dugong.png",
@@ -14156,7 +14156,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Walrus",
-        "score": 23,
+        "score": 24,
         "id": 471
     }, {
         "image": "/images/pets/Liger.png",
@@ -14186,7 +14186,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Liger",
-        "score": 11,
+        "score": 12,
         "id": 472
     }, {
         "image": "/images/pets/Cockroach.png",
@@ -14306,7 +14306,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Bullfrog",
-        "score": 26,
+        "score": 27,
         "id": 476
     }, {
         "image": "/images/pets/Bandicoot.png",
@@ -14336,7 +14336,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Bandicoot",
-        "score": 20,
+        "score": 21,
         "id": 477
     }, {
         "image": "/images/pets/Angelfish.png",
@@ -14396,7 +14396,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Show Pony",
-        "score": 18,
+        "score": 19,
         "id": 479
     }, {
         "image": "/images/pets/Frankenfeline.png",
@@ -14426,7 +14426,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Frankenfeline",
-        "score": 32,
+        "score": 33,
         "id": 480
     }, {
         "image": "/images/pets/Bluebottle Fly.png",
@@ -14456,7 +14456,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Bluebottle Fly",
-        "score": 31,
+        "score": 32,
         "id": 481
     }, {
         "image": "/images/pets/Armadillo.png",
@@ -14486,7 +14486,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Armadillo",
-        "score": 24,
+        "score": 25,
         "id": 482
     }, {
         "image": "/images/pets/Sandfish.png",
@@ -14516,7 +14516,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Sandfish",
-        "score": 29,
+        "score": 30,
         "id": 483
     }, {
         "image": "/images/pets/Beluga Whale.png",
@@ -14546,7 +14546,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Beluga Whale",
-        "score": 21,
+        "score": 22,
         "id": 484
     }, {
         "image": "/images/pets/Mosquito.png",
@@ -14576,7 +14576,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Mosquito",
-        "score": 33,
+        "score": 34,
         "id": 485
     }, {
         "image": "/images/pets/Sado Mole.png",
@@ -14606,7 +14606,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Sado Mole",
-        "score": 28,
+        "score": 29,
         "id": 486
     }, {
         "image": "/images/pets/Mouse.png",
@@ -14636,7 +14636,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Mouse",
-        "score": 49,
+        "score": 50,
         "id": 487
     }, {
         "image": "/images/pets/Piranha.png",
@@ -14666,7 +14666,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Piranha",
-        "score": 34,
+        "score": 35,
         "id": 488
     }, {
         "image": "/images/pets/Buffalo.png",
@@ -14696,7 +14696,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Buffalo",
-        "score": 52,
+        "score": 53,
         "id": 489
     }, {
         "image": "/images/pets/Ant.png",
@@ -14726,7 +14726,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ant",
-        "score": 51,
+        "score": 52,
         "id": 490
     }, {
         "image": "/images/pets/Otter.png",
@@ -14756,7 +14756,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Otter",
-        "score": 50,
+        "score": 51,
         "id": 491
     }, {
         "image": "/images/pets/Dog.png",
@@ -14786,7 +14786,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Dog",
-        "score": 54,
+        "score": 55,
         "id": 492
     }, {
         "image": "/images/pets/Cat.png",
@@ -14816,7 +14816,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Cat",
-        "score": 53,
+        "score": 54,
         "id": 493
     }, {
         "image": "/images/pets/Blue Dog.png",
@@ -15180,22 +15180,22 @@
         "id": 505
     }, {
         "image": "/images/pets/Therapy Dog.png",
-        "rvalue": 0.27,
-        "nvalue": 2.05,
-        "mvalue": 8.75,
+        "rvalue": 0.28,
+        "nvalue": 2.1,
+        "mvalue": 9,
         "status": "Ready",
-        "rvalue - nopotion": 0.27,
-        "rvalue - ride": 0.47,
-        "rvalue - fly": 0.47,
-        "rvalue - fly&ride": 0.72,
-        "nvalue - nopotion": 1.45,
-        "nvalue - ride": 1.75,
-        "nvalue - fly": 1.75,
-        "nvalue - fly&ride": 2.05,
+        "rvalue - nopotion": 0.28,
+        "rvalue - ride": 0.48,
+        "rvalue - fly": 0.48,
+        "rvalue - fly&ride": 0.73,
+        "nvalue - nopotion": 1.5,
+        "nvalue - ride": 1.8,
+        "nvalue - fly": 1.8,
+        "nvalue - fly&ride": 2.1,
         "mvalue - nopotion": 6.5,
         "mvalue - ride": 7.5,
-        "mvalue - fly": 7.65,
-        "mvalue - fly&ride": 8.75,
+        "mvalue - fly": 7.9,
+        "mvalue - fly&ride": 9,
         "fly&ride?": "\"false\"",
         "rarity": "uncommon",
         "type": "pets",
@@ -15956,7 +15956,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Rodeo Bull",
-        "score": 56,
+        "score": 55,
         "id": 531
     }, {
         "image": "/images/pets/Ermine.png",
@@ -16016,26 +16016,26 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Black Marlin",
-        "score": 52,
+        "score": 51,
         "id": 533
     }, {
         "image": "/images/pets/Scarecrow.png",
-        "rvalue": 0.09,
-        "nvalue": 1.15,
-        "mvalue": 4.25,
+        "rvalue": 0.08,
+        "nvalue": 1.1,
+        "mvalue": 4,
         "status": "Ready",
-        "rvalue - nopotion": 0.09,
-        "rvalue - ride": 0.29,
-        "rvalue - fly": 0.29,
-        "rvalue - fly&ride": 0.54,
-        "nvalue - nopotion": 0.5999999999999999,
-        "nvalue - ride": 0.88,
-        "nvalue - fly": 0.88,
-        "nvalue - fly&ride": 1.15,
-        "mvalue - nopotion": 2.6,
-        "mvalue - ride": 3.43,
-        "mvalue - fly": 3.43,
-        "mvalue - fly&ride": 4.25,
+        "rvalue - nopotion": 0.08,
+        "rvalue - ride": 0.28,
+        "rvalue - fly": 0.28,
+        "rvalue - fly&ride": 0.53,
+        "nvalue - nopotion": 0.55,
+        "nvalue - ride": 0.83,
+        "nvalue - fly": 0.83,
+        "nvalue - fly&ride": 1.1,
+        "mvalue - nopotion": 2.35,
+        "mvalue - ride": 3.18,
+        "mvalue - fly": 3.18,
+        "mvalue - fly&ride": 4,
         "fly&ride?": "\"false\"",
         "rarity": "uncommon",
         "type": "pets",
@@ -16046,7 +16046,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Scarecrow",
-        "score": 49,
+        "score": 56,
         "id": 534
     }, {
         "image": "/images/pets/Lobster.png",
@@ -16106,7 +16106,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Arctic Tern",
-        "score": 51,
+        "score": 50,
         "id": 536
     }, {
         "image": "/images/pets/Possum.png",
@@ -16136,7 +16136,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Possum",
-        "score": 55,
+        "score": 54,
         "id": 537
     }, {
         "image": "/images/pets/Slug.png",
@@ -16166,7 +16166,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Slug",
-        "score": 50,
+        "score": 49,
         "id": 538
     }, {
         "image": "/images/pets/Snowman.png",
@@ -17968,22 +17968,22 @@
         "id": 665
     }, {
         "image": "/images/pets/Icy Porcupine.png",
-        "rvalue": 0.2,
-        "nvalue": 1.8,
-        "mvalue": 7.5,
+        "rvalue": 0.19,
+        "nvalue": 1.75,
+        "mvalue": 7.25,
         "status": "Ready",
-        "rvalue - nopotion": 0.2,
-        "rvalue - ride": 0.4,
-        "rvalue - fly": 0.4,
-        "rvalue - fly&ride": 0.65,
-        "nvalue - nopotion": 1.25,
-        "nvalue - ride": 1.53,
-        "nvalue - fly": 1.53,
-        "nvalue - fly&ride": 1.8,
-        "mvalue - nopotion": 5.4,
-        "mvalue - ride": 6.45,
-        "mvalue - fly": 6.45,
-        "mvalue - fly&ride": 7.5,
+        "rvalue - nopotion": 0.19,
+        "rvalue - ride": 0.39,
+        "rvalue - fly": 0.39,
+        "rvalue - fly&ride": 0.64,
+        "nvalue - nopotion": 1.2,
+        "nvalue - ride": 1.48,
+        "nvalue - fly": 1.48,
+        "nvalue - fly&ride": 1.75,
+        "mvalue - nopotion": 5.15,
+        "mvalue - ride": 6.2,
+        "mvalue - fly": 6.2,
+        "mvalue - fly&ride": 7.25,
         "fly&ride?": "\"false\"",
         "rarity": "ultra rare",
         "type": "pets",
@@ -17994,7 +17994,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Icy Porcupine",
-        "score": 141,
+        "score": 140,
         "id": 666
     }, {
         "image": "/images/pets/Snowy Mammoth.png",
@@ -18024,26 +18024,26 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Snowy Mammoth",
-        "score": 134,
+        "score": 133,
         "id": 667
     }, {
         "image": "/images/pets/Frozen Penguin.png",
-        "rvalue": 0.2,
-        "nvalue": 1.8,
-        "mvalue": 7.5,
+        "rvalue": 0.19,
+        "nvalue": 1.75,
+        "mvalue": 7.25,
         "status": "Ready",
-        "rvalue - nopotion": 0.2,
-        "rvalue - ride": 0.4,
-        "rvalue - fly": 0.4,
-        "rvalue - fly&ride": 0.65,
-        "nvalue - nopotion": 1.25,
-        "nvalue - ride": 1.53,
-        "nvalue - fly": 1.53,
-        "nvalue - fly&ride": 1.8,
-        "mvalue - nopotion": 5.4,
-        "mvalue - ride": 6.45,
-        "mvalue - fly": 6.45,
-        "mvalue - fly&ride": 7.5,
+        "rvalue - nopotion": 0.19,
+        "rvalue - ride": 0.39,
+        "rvalue - fly": 0.39,
+        "rvalue - fly&ride": 0.64,
+        "nvalue - nopotion": 1.2,
+        "nvalue - ride": 1.48,
+        "nvalue - fly": 1.48,
+        "nvalue - fly&ride": 1.75,
+        "mvalue - nopotion": 5.15,
+        "mvalue - ride": 6.2,
+        "mvalue - fly": 6.2,
+        "mvalue - fly&ride": 7.25,
         "fly&ride?": "\"false\"",
         "rarity": "ultra rare",
         "type": "pets",
@@ -18054,7 +18054,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Frozen Penguin",
-        "score": 140,
+        "score": 139,
         "id": 668
     }, {
         "image": "/images/pets/Gaelic Fae.png",
@@ -18118,22 +18118,22 @@
         "id": 670
     }, {
         "image": "/images/pets/Shiver Wolf.png",
-        "rvalue": 0.35,
-        "nvalue": 2.5,
-        "mvalue": 11,
+        "rvalue": 0.38,
+        "nvalue": 2.65,
+        "mvalue": 11.6,
         "status": "Ready",
-        "rvalue - nopotion": 0.35,
-        "rvalue - ride": 0.55,
-        "rvalue - fly": 0.55,
-        "rvalue - fly&ride": 0.8,
-        "nvalue - nopotion": 1.9,
-        "nvalue - ride": 2.2,
-        "nvalue - fly": 2.2,
-        "nvalue - fly&ride": 2.5,
-        "mvalue - nopotion": 8.25,
-        "mvalue - ride": 9.25,
-        "mvalue - fly": 9.9,
-        "mvalue - fly&ride": 11,
+        "rvalue - nopotion": 0.38,
+        "rvalue - ride": 0.58,
+        "rvalue - fly": 0.58,
+        "rvalue - fly&ride": 0.8300000000000001,
+        "nvalue - nopotion": 2,
+        "nvalue - ride": 2.33,
+        "nvalue - fly": 2.33,
+        "nvalue - fly&ride": 2.65,
+        "mvalue - nopotion": 8.85,
+        "mvalue - ride": 9.85,
+        "mvalue - fly": 10.5,
+        "mvalue - fly&ride": 11.6,
         "fly&ride?": "\"false\"",
         "rarity": "rare",
         "type": "pets",
@@ -18204,7 +18204,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Clover Cow",
-        "score": 68,
+        "score": 67,
         "id": 673
     }, {
         "image": "/images/pets/Tri-Horned Treehopper.png",
@@ -18294,7 +18294,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Ringmaster Gibbon",
-        "score": 131,
+        "score": 130,
         "id": 676
     }, {
         "image": "/images/pets/Officer Gibbon.png",
@@ -18324,7 +18324,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Officer Gibbon",
-        "score": 150,
+        "score": 149,
         "id": 677
     }, {
         "image": "/images/pets/Firefighter Gibbon.png",
@@ -18354,7 +18354,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Firefighter Gibbon",
-        "score": 146,
+        "score": 145,
         "id": 678
     }, {
         "image": "/images/pets/Mirai Moth.png",
@@ -18384,7 +18384,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Mirai Moth",
-        "score": 108,
+        "score": 107,
         "id": 679
     }, {
         "image": "/images/pets/Kage Crow.png",
@@ -18414,7 +18414,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Kage Crow",
-        "score": 94,
+        "score": 93,
         "id": 680
     }, {
         "image": "/images/pets/Toxic Kaijunior.png",
@@ -18504,7 +18504,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Sakura Spirit",
-        "score": 62,
+        "score": 61,
         "id": 683
     }, {
         "image": "/images/pets/Scorching Kaijunior.png",
@@ -18564,7 +18564,7 @@
         "preppybonusn": "\"false\"",
         "preppybonusm": "\"false\"",
         "name": "Influencer Gibbon",
-        "score": 145,
+        "score": 141,
         "id": 685
     }, {
         "image": "/images/pets/Super Saru.png",
@@ -18654,7 +18654,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Primal Kaijunior",
-        "score": 202,
+        "score": 201,
         "id": 688
     }, {
         "image": "/images/pets/Glormy Dolphin.png",
@@ -18744,7 +18744,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Kappakid",
-        "score": 60,
+        "score": 59,
         "id": 691
     }, {
         "image": "/images/pets/Gibbon.png",
@@ -18774,7 +18774,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Gibbon",
-        "score": 128,
+        "score": 127,
         "id": 692
     }, {
         "image": "/images/pets/Bakeneko.png",
@@ -18834,7 +18834,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Kaijunior",
-        "score": 53,
+        "score": 52,
         "id": 694
     }, {
         "image": "/images/pets/Momma Moose.png",
@@ -18864,7 +18864,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Momma Moose",
-        "score": 102,
+        "score": 101,
         "id": 695
     }, {
         "image": "/images/pets/Papa Moose.png",
@@ -18924,7 +18924,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Moose Calf",
-        "score": 64,
+        "score": 63,
         "id": 697
     }, {
         "image": "/images/pets/Muskrat.png",
@@ -19093,12 +19093,12 @@
         "id": 712
     }, {
         "image": "/images/pets/Halo.png",
-        "value": 28,
+        "value": 29,
         "status": "Ready",
         "rarity": "legendary",
         "type": "pet wear",
         "name": "Halo",
-        "score": 11,
+        "score": 10,
         "id": 713
     }, {
         "image": "/images/pets/2022 Birthday Cake.png",
@@ -19143,7 +19143,7 @@
         "rarity": "rare",
         "type": "pet wear",
         "name": "2022 Birthday Party Hat",
-        "score": 10,
+        "score": 11,
         "id": 718
     }, {
         "image": "/images/pets/2022 Birthday Party Horn.png",
@@ -20037,7 +20037,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Vermilion Butterfly",
-        "score": 115,
+        "score": 114,
         "id": 815
     }, {
         "image": "/images/pets/Seafoam Butterfly.png",
@@ -20067,7 +20067,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Seafoam Butterfly",
-        "score": 156,
+        "score": 155,
         "id": 816
     }, {
         "image": "/images/pets/Orchid Butterfly.png",
@@ -20187,7 +20187,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Amber Butterfly",
-        "score": 122,
+        "score": 120,
         "id": 820
     }, {
         "image": "/images/pets/Blue Butterfly.png",
@@ -23532,22 +23532,22 @@
         "id": 1186
     }, {
         "image": "/images/pets/Seabed Creeper.png",
-        "rvalue": 0.43,
-        "nvalue": 2.95,
-        "mvalue": 12.8,
+        "rvalue": 0.53,
+        "nvalue": 3.45,
+        "mvalue": 14.8,
         "status": "Ready",
-        "rvalue - nopotion": 0.43,
-        "rvalue - ride": 0.63,
-        "rvalue - fly": 0.63,
-        "rvalue - fly&ride": 0.88,
-        "nvalue - nopotion": 2.3,
-        "nvalue - ride": 2.63,
-        "nvalue - fly": 2.63,
-        "nvalue - fly&ride": 2.95,
-        "mvalue - nopotion": 10.05,
-        "mvalue - ride": 11.05,
-        "mvalue - fly": 11.7,
-        "mvalue - fly&ride": 12.8,
+        "rvalue - nopotion": 0.53,
+        "rvalue - ride": 0.75,
+        "rvalue - fly": 0.75,
+        "rvalue - fly&ride": 1.03,
+        "nvalue - nopotion": 2.8,
+        "nvalue - ride": 3.13,
+        "nvalue - fly": 3.13,
+        "nvalue - fly&ride": 3.45,
+        "mvalue - nopotion": 12.05,
+        "mvalue - ride": 13.05,
+        "mvalue - fly": 13.7,
+        "mvalue - fly&ride": 14.8,
         "fly&ride?": "\"false\"",
         "rarity": "ultra rare",
         "type": "pets",
@@ -23558,7 +23558,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Seabed Creeper",
-        "score": 74,
+        "score": 71,
         "id": 1187
     }, {
         "image": "/images/pets/Mermicorn.png",
@@ -28505,7 +28505,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Emperor Shrimp",
-        "score": 89,
+        "score": 88,
         "id": 1724
     }, {
         "image": "/images/pets/Jetpack from Astronaut Gorilla.png",
@@ -28688,7 +28688,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Kelp Raider",
-        "score": 106,
+        "score": 105,
         "id": 1736
     }, {
         "image": "/images/pets/Kelp Crewmate.png",
@@ -28718,7 +28718,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Kelp Crewmate",
-        "score": 54,
+        "score": 53,
         "id": 1737
     }, {
         "image": "/images/pets/Manta Ray.png",
@@ -28748,7 +28748,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Manta Ray",
-        "score": 99,
+        "score": 98,
         "id": 1738
     }, {
         "image": "/images/pets/Island Tarsier.png",
@@ -34384,7 +34384,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Wren",
-        "score": 115,
+        "score": 114,
         "id": 2361
     }, {
         "image": "/images/pets/Vampire Stroller.png",
@@ -35411,22 +35411,22 @@
         "id": 2470
     }, {
         "image": "/images/pets/Quetzalcoatl.png",
-        "rvalue": 0.19,
-        "nvalue": 1.95,
-        "mvalue": 7.75,
+        "rvalue": 0.18,
+        "nvalue": 1.9,
+        "mvalue": 7.5,
         "status": "Ready",
-        "rvalue - nopotion": 0.19,
-        "rvalue - ride": 0.49,
-        "rvalue - fly": 0.49,
-        "rvalue - fly&ride": 0.8899999999999999,
-        "nvalue - nopotion": 0.9,
-        "nvalue - ride": 1.35,
-        "nvalue - fly": 1.35,
-        "nvalue - fly&ride": 1.95,
-        "mvalue - nopotion": 4.75,
-        "mvalue - ride": 5.75,
-        "mvalue - fly": 6.65,
-        "mvalue - fly&ride": 7.75,
+        "rvalue - nopotion": 0.18,
+        "rvalue - ride": 0.48,
+        "rvalue - fly": 0.48,
+        "rvalue - fly&ride": 0.8799999999999999,
+        "nvalue - nopotion": 0.8500000000000001,
+        "nvalue - ride": 1.3,
+        "nvalue - fly": 1.3,
+        "nvalue - fly&ride": 1.9,
+        "mvalue - nopotion": 4.5,
+        "mvalue - ride": 5.5,
+        "mvalue - fly": 6.4,
+        "mvalue - fly&ride": 7.5,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -35437,26 +35437,26 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Quetzalcoatl",
-        "score": 221,
+        "score": 220,
         "id": 2471
     }, {
         "image": "/images/pets/Temple Friend.png",
-        "rvalue": 0.19,
-        "nvalue": 1.95,
-        "mvalue": 7.75,
+        "rvalue": 0.18,
+        "nvalue": 1.9,
+        "mvalue": 7.5,
         "status": "Ready",
-        "rvalue - nopotion": 0.19,
-        "rvalue - ride": 0.49,
-        "rvalue - fly": 0.49,
-        "rvalue - fly&ride": 0.8899999999999999,
-        "nvalue - nopotion": 0.9,
-        "nvalue - ride": 1.35,
-        "nvalue - fly": 1.35,
-        "nvalue - fly&ride": 1.95,
-        "mvalue - nopotion": 4.75,
-        "mvalue - ride": 5.75,
-        "mvalue - fly": 6.65,
-        "mvalue - fly&ride": 7.75,
+        "rvalue - nopotion": 0.18,
+        "rvalue - ride": 0.48,
+        "rvalue - fly": 0.48,
+        "rvalue - fly&ride": 0.8799999999999999,
+        "nvalue - nopotion": 0.8500000000000001,
+        "nvalue - ride": 1.3,
+        "nvalue - fly": 1.3,
+        "nvalue - fly&ride": 1.9,
+        "mvalue - nopotion": 4.5,
+        "mvalue - ride": 5.5,
+        "mvalue - fly": 6.4,
+        "mvalue - fly&ride": 7.5,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -35597,7 +35597,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Tegu",
-        "score": 48,
+        "score": 49,
         "id": 2477
     }, {
         "image": "/images/pets/Mini Schnauzer.png",
@@ -35964,7 +35964,7 @@
         "rarity": "legendary",
         "type": "gifts",
         "name": "Regal Chest",
-        "score": 47,
+        "score": 46,
         "id": 2514
     }, {
         "image": "/images/pets/Summer 2024 Sticker Pack.png",
@@ -36056,7 +36056,7 @@
         "rarity": "legendary",
         "type": "gifts",
         "name": "Fossil Sticker Pack",
-        "score": 46,
+        "score": 45,
         "id": 2524
     }, {
         "image": "/images/pets/Standard Sticker Pack.png",
@@ -36144,18 +36144,18 @@
         "id": 2532
     }, {
         "image": "/images/pets/Siamese Cat.png",
-        "rvalue": 15.5,
-        "nvalue": 46,
+        "rvalue": 16,
+        "nvalue": 47,
         "mvalue": 154,
         "status": "Ready",
-        "rvalue - nopotion": 15.5,
-        "rvalue - ride": 15.9,
-        "rvalue - fly": 15.95,
-        "rvalue - fly&ride": 16.5,
-        "nvalue - nopotion": 44,
-        "nvalue - ride": 45,
-        "nvalue - fly": 45,
-        "nvalue - fly&ride": 46,
+        "rvalue - nopotion": 16,
+        "rvalue - ride": 16.4,
+        "rvalue - fly": 16.45,
+        "rvalue - fly&ride": 17,
+        "nvalue - nopotion": 45,
+        "nvalue - ride": 46,
+        "nvalue - fly": 46,
+        "nvalue - fly&ride": 47,
         "mvalue - nopotion": 151,
         "mvalue - ride": 152,
         "mvalue - fly": 152.9,
@@ -36170,13 +36170,13 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Siamese Cat",
-        "score": 10,
+        "score": 9,
         "id": 2533
     }, {
         "image": "/images/pets/Giant Panda.png",
         "rvalue": 116,
         "nvalue": 356,
-        "mvalue": 1405,
+        "mvalue": 1415,
         "status": "Ready",
         "rvalue - nopotion": 114,
         "rvalue - ride": 114,
@@ -36186,10 +36186,10 @@
         "nvalue - ride": 355,
         "nvalue - fly": 355,
         "nvalue - fly&ride": 356,
-        "mvalue - nopotion": 1410,
-        "mvalue - ride": 1403,
-        "mvalue - fly": 1403.9,
-        "mvalue - fly&ride": 1405,
+        "mvalue - nopotion": 1420,
+        "mvalue - ride": 1413,
+        "mvalue - fly": 1413.9,
+        "mvalue - fly&ride": 1415,
         "fly&ride?": "\"true\"",
         "rarity": "legendary",
         "type": "pets",
@@ -36410,7 +36410,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Phantom Dragon",
-        "score": 70,
+        "score": 69,
         "id": 2545
     }, {
         "image": "/images/pets/Patchy Bear.png",
@@ -36500,7 +36500,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Black Widow",
-        "score": 149,
+        "score": 147,
         "id": 2548
     }, {
         "image": "/images/pets/Tarantula.png",
@@ -36530,7 +36530,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Tarantula",
-        "score": 108,
+        "score": 107,
         "id": 2549
     }, {
         "image": "/images/pets/Jumping Spider.png",
@@ -36590,7 +36590,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "The Black Dog",
-        "score": 66,
+        "score": 65,
         "id": 2551
     }, {
         "image": "/images/pets/Cryptid.png",
@@ -36650,7 +36650,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Slimingo",
-        "score": 208,
+        "score": 205,
         "id": 2553
     }, {
         "image": "/images/pets/Aye Aye.png",
@@ -36710,7 +36710,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Ghostly Cat",
-        "score": 147,
+        "score": 146,
         "id": 2555
     }, {
         "image": "/images/pets/DJ Snooze.png",
@@ -36740,7 +36740,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "DJ Snooze",
-        "score": 87,
+        "score": 86,
         "id": 2556
     }, {
         "image": "/images/pets/Choco Penguin.png",
@@ -36770,7 +36770,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Choco Penguin",
-        "score": 127,
+        "score": 126,
         "id": 2557
     }, {
         "image": "/images/pets/Dango Penguins.png",
@@ -36800,7 +36800,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Dango Penguins",
-        "score": 74,
+        "score": 73,
         "id": 2558
     }, {
         "image": "/images/pets/Strawberry Penguin.png",
@@ -37207,7 +37207,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Arctic Dusk Dragon",
-        "score": 77,
+        "score": 76,
         "id": 2591
     }, {
         "image": "/images/pets/Humbug.png",
@@ -37267,7 +37267,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Tree Sasquatch",
-        "score": 114,
+        "score": 113,
         "id": 2593
     }, {
         "image": "/images/pets/Turtle Doves.png",
@@ -37297,7 +37297,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Turtle Doves",
-        "score": 102,
+        "score": 101,
         "id": 2594
     }, {
         "image": "/images/pets/Maine Coon.png",
@@ -37327,7 +37327,7 @@
         "categorypreppyn": "\"false\"",
         "categorypreppym": "\"false\"",
         "name": "Maine Coon",
-        "score": 154,
+        "score": 153,
         "id": 2595
     }, {
         "image": "/images/pets/Christmas Spirit.png",
@@ -37357,7 +37357,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Christmas Spirit",
-        "score": 217,
+        "score": 215,
         "id": 2596
     }, {
         "image": "/images/pets/Snowball Pug.png",
@@ -37387,7 +37387,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Snowball Pug",
-        "score": 133,
+        "score": 132,
         "id": 2597
     }, {
         "image": "/images/pets/Banana Car.png",
@@ -37426,7 +37426,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "2D Kitty",
-        "score": 94,
+        "score": 93,
         "id": 2599
     }, {
         "image": "/images/pets/Cozy Mistletroll.png",
@@ -37696,26 +37696,26 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Samoyed",
-        "score": 95,
+        "score": 94,
         "id": 2608
     }, {
         "image": "/images/pets/Japanese Snow Fairy.png",
-        "rvalue": 0.03,
-        "nvalue": 0.75,
-        "mvalue": 2.4,
+        "rvalue": 0.025,
+        "nvalue": 0.725,
+        "mvalue": 2.3,
         "status": "Ready",
-        "rvalue - nopotion": 0.03,
-        "rvalue - ride": 0.23,
-        "rvalue - fly": 0.23,
-        "rvalue - fly&ride": 0.48,
-        "nvalue - nopotion": 0.2,
-        "nvalue - ride": 0.48,
-        "nvalue - fly": 0.48,
-        "nvalue - fly&ride": 0.75,
-        "mvalue - nopotion": 0.8999999999999999,
-        "mvalue - ride": 1.65,
-        "mvalue - fly": 1.65,
-        "mvalue - fly&ride": 2.4,
+        "rvalue - nopotion": 0.025,
+        "rvalue - ride": 0.22,
+        "rvalue - fly": 0.22,
+        "rvalue - fly&ride": 0.475,
+        "nvalue - nopotion": 0.1749999999999999,
+        "nvalue - ride": 0.45,
+        "nvalue - fly": 0.45,
+        "nvalue - fly&ride": 0.725,
+        "mvalue - nopotion": 0.7999999999999998,
+        "mvalue - ride": 1.55,
+        "mvalue - fly": 1.55,
+        "mvalue - fly&ride": 2.3,
         "fly&ride?": "\"false\"",
         "rarity": "common",
         "type": "pets",
@@ -37775,7 +37775,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Clementine Owl",
-        "score": 130,
+        "score": 129,
         "id": 2612
     }, {
         "image": "/images/pets/Dragonfruit Fox.png",
@@ -37805,7 +37805,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Dragonfruit Fox",
-        "score": 65,
+        "score": 64,
         "id": 2613
     }, {
         "image": "/images/pets/Pineapple Owl.png",
@@ -37835,7 +37835,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Pineapple Owl",
-        "score": 55,
+        "score": 54,
         "id": 2614
     }, {
         "image": "/images/pets/Peach Owl.png",
@@ -37954,7 +37954,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "German Shepherd",
-        "score": 48,
+        "score": 47,
         "id": 2620
     }, {
         "image": "/images/pets/Sneak Weasel.png",
@@ -38081,26 +38081,26 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Rose Dragon",
-        "score": 76,
+        "score": 75,
         "id": 2627
     }, {
         "image": "/images/pets/Cherub Chipmunk.png",
-        "rvalue": 0.04,
-        "nvalue": 0.95,
-        "mvalue": 3.25,
+        "rvalue": 0.05,
+        "nvalue": 1,
+        "mvalue": 3.5,
         "status": "Ready",
-        "rvalue - nopotion": 0.04,
-        "rvalue - ride": 0.24,
-        "rvalue - fly": 0.24,
-        "rvalue - fly&ride": 0.49,
-        "nvalue - nopotion": 0.3999999999999999,
-        "nvalue - ride": 0.68,
-        "nvalue - fly": 0.68,
-        "nvalue - fly&ride": 0.95,
-        "mvalue - nopotion": 1.75,
-        "mvalue - ride": 2.5,
-        "mvalue - fly": 2.5,
-        "mvalue - fly&ride": 3.25,
+        "rvalue - nopotion": 0.05,
+        "rvalue - ride": 0.25,
+        "rvalue - fly": 0.25,
+        "rvalue - fly&ride": 0.5,
+        "nvalue - nopotion": 0.45,
+        "nvalue - ride": 0.73,
+        "nvalue - fly": 0.73,
+        "nvalue - fly&ride": 1,
+        "mvalue - nopotion": 2,
+        "mvalue - ride": 2.75,
+        "mvalue - fly": 2.75,
+        "mvalue - fly&ride": 3.5,
         "fly&ride?": "\"false\"",
         "rarity": "rare",
         "type": "pets",
@@ -38111,7 +38111,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Cherub Chipmunk",
-        "score": 127,
+        "score": 121,
         "id": 2628
     }, {
         "image": "/images/pets/Fire Foal.png",
@@ -38231,7 +38231,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Dire Wolf",
-        "score": 145,
+        "score": 144,
         "id": 2632
     }, {
         "image": "/images/pets/Silverback Gorilla.png",
@@ -38261,7 +38261,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Silverback Gorilla",
-        "score": 57,
+        "score": 56,
         "id": 2633
     }, {
         "image": "/images/pets/Chocolate Chip Bat Dragon Backpack.png",
@@ -38334,6 +38334,36 @@
         "id": 2636
     }, {
         "image": "/images/pets/Blue Whale.png",
+        "rvalue": 0.16,
+        "nvalue": 1.8,
+        "mvalue": 7,
+        "status": "Ready",
+        "rvalue - nopotion": 0.16,
+        "rvalue - ride": 0.46,
+        "rvalue - fly": 0.46,
+        "rvalue - fly&ride": 0.86,
+        "nvalue - nopotion": 0.75,
+        "nvalue - ride": 1.1,
+        "nvalue - fly": 1.1,
+        "nvalue - fly&ride": 1.8,
+        "mvalue - nopotion": 4,
+        "mvalue - ride": 5,
+        "mvalue - fly": 5.9,
+        "mvalue - fly&ride": 7,
+        "fly&ride?": "\"false\"",
+        "rarity": "legendary",
+        "type": "pets",
+        "categoryd": null,
+        "categoryn": null,
+        "categorym": null,
+        "preppybonusd": null,
+        "preppybonusn": null,
+        "preppybonusm": null,
+        "name": "Blue Whale",
+        "score": 223,
+        "id": 2637
+    }, {
+        "image": "/images/pets/Sea Turtle.png",
         "rvalue": 0.18,
         "nvalue": 1.9,
         "mvalue": 7.5,
@@ -38359,38 +38389,8 @@
         "preppybonusd": null,
         "preppybonusn": null,
         "preppybonusm": null,
-        "name": "Blue Whale",
-        "score": 223,
-        "id": 2637
-    }, {
-        "image": "/images/pets/Sea Turtle.png",
-        "rvalue": 0.2,
-        "nvalue": 2,
-        "mvalue": 8,
-        "status": "Ready",
-        "rvalue - nopotion": 0.2,
-        "rvalue - ride": 0.5,
-        "rvalue - fly": 0.5,
-        "rvalue - fly&ride": 0.8999999999999999,
-        "nvalue - nopotion": 0.9,
-        "nvalue - ride": 1.3,
-        "nvalue - fly": 1.3,
-        "nvalue - fly&ride": 2,
-        "mvalue - nopotion": 5,
-        "mvalue - ride": 6,
-        "mvalue - fly": 6.9,
-        "mvalue - fly&ride": 8,
-        "fly&ride?": "\"false\"",
-        "rarity": "legendary",
-        "type": "pets",
-        "categoryd": null,
-        "categoryn": null,
-        "categorym": null,
-        "preppybonusd": null,
-        "preppybonusn": null,
-        "preppybonusm": null,
         "name": "Sea Turtle",
-        "score": 220,
+        "score": 221,
         "id": 2638
     }, {
         "image": "/images/pets/Mexican Wolf.png",
@@ -38480,7 +38480,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Galapagos Sea Lion",
-        "score": 46,
+        "score": 47,
         "id": 2641
     }, {
         "image": "/images/pets/California Condor.png",
@@ -38510,7 +38510,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "California Condor",
-        "score": 45,
+        "score": 46,
         "id": 2642
     }, {
         "image": "/images/pets/Black Tiger.png",
@@ -42887,7 +42887,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Latte Kitsune",
-        "score": 82,
+        "score": 81,
         "id": 3077
     }, {
         "image": "/images/pets/Jiggly Jerboa.png",
@@ -42917,7 +42917,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Jiggly Jerboa",
-        "score": 47,
+        "score": 48,
         "id": 3078
     }, {
         "image": "/images/pets/Candy Flare Mega Neon Paint.png",
@@ -43198,7 +43198,7 @@
         "rarity": "legendary",
         "type": "gifts",
         "name": "Aberdeen Angus Box",
-        "score": 44,
+        "score": 43,
         "id": 3109
     }, {
         "image": "/images/pets/Admin Abuse Box.png",
@@ -44887,7 +44887,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Pupcake",
-        "score": 78,
+        "score": 77,
         "id": 3287
     }, {
         "image": "/images/pets/White Choccybunny.png",
@@ -44986,7 +44986,7 @@
         "rarity": "legendary",
         "type": "gifts",
         "name": "Choccybunny Box",
-        "score": 45,
+        "score": 44,
         "id": 3291
     }, {
         "image": "/images/pets/Tortuga De La Isla.png",
@@ -45047,7 +45047,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Chocolate Dutch Guinea Pig",
-        "score": 50,
+        "score": 49,
         "id": 3293
     }, {
         "image": "/images/pets/Tortoiseshell Guinea Pig.png",
@@ -45107,7 +45107,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Red Dutch Guinea Pig",
-        "score": 56,
+        "score": 55,
         "id": 3295
     }, {
         " ": "Golden Lettuce",
@@ -45529,22 +45529,22 @@
         "id": 3339
     }, {
         "image": "/images/pets/Purrowl.png",
-        "rvalue": 0.2,
-        "nvalue": 2,
-        "mvalue": 8,
+        "rvalue": 0.15,
+        "nvalue": 1.75,
+        "mvalue": 6.75,
         "status": "Ready",
-        "rvalue - nopotion": 0.2,
-        "rvalue - ride": 0.5,
-        "rvalue - fly": 0.5,
-        "rvalue - fly&ride": 0.8999999999999999,
-        "nvalue - nopotion": 0.9,
-        "nvalue - ride": 1.2,
-        "nvalue - fly": 1.2,
-        "nvalue - fly&ride": 2,
-        "mvalue - nopotion": 5,
-        "mvalue - ride": 6,
-        "mvalue - fly": 6.9,
-        "mvalue - fly&ride": 8,
+        "rvalue - nopotion": 0.15,
+        "rvalue - ride": 0.45,
+        "rvalue - fly": 0.45,
+        "rvalue - fly&ride": 0.85,
+        "nvalue - nopotion": 0.7000000000000001,
+        "nvalue - ride": 0.95,
+        "nvalue - fly": 0.95,
+        "nvalue - fly&ride": 1.75,
+        "mvalue - nopotion": 3.75,
+        "mvalue - ride": 4.75,
+        "mvalue - fly": 5.65,
+        "mvalue - fly&ride": 6.75,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -45555,7 +45555,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Purrowl",
-        "score": 219,
+        "score": 224,
         "id": 3340
     }, {
         "image": "/images/pets/Glormy Crab.png",
@@ -45607,22 +45607,22 @@
         "id": 3343
     }, {
         "image": "/images/pets/Peachick.png",
-        "rvalue": 0.37,
-        "nvalue": 2.65,
-        "mvalue": 11.6,
+        "rvalue": 0.33,
+        "nvalue": 2.45,
+        "mvalue": 10.75,
         "status": "Ready",
-        "rvalue - nopotion": 0.37,
-        "rvalue - ride": 0.5700000000000001,
-        "rvalue - fly": 0.5700000000000001,
-        "rvalue - fly&ride": 0.8200000000000001,
-        "nvalue - nopotion": 2,
-        "nvalue - ride": 2.33,
-        "nvalue - fly": 2.33,
-        "nvalue - fly&ride": 2.65,
-        "mvalue - nopotion": 8.850000000000001,
-        "mvalue - ride": 9.850000000000001,
-        "mvalue - fly": 10.5,
-        "mvalue - fly&ride": 11.6,
+        "rvalue - nopotion": 0.33,
+        "rvalue - ride": 0.53,
+        "rvalue - fly": 0.53,
+        "rvalue - fly&ride": 0.78,
+        "nvalue - nopotion": 1.85,
+        "nvalue - ride": 2.15,
+        "nvalue - fly": 2.15,
+        "nvalue - fly&ride": 2.45,
+        "mvalue - nopotion": 8.25,
+        "mvalue - ride": 9.25,
+        "mvalue - fly": 9.65,
+        "mvalue - fly&ride": 10.75,
         "fly&ride?": "\"false\"",
         "rarity": "ultra rare",
         "type": "pets",
@@ -45633,7 +45633,7 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Peachick",
-        "score": 86,
+        "score": 85,
         "id": 3344
     }, {
         "image": "/images/pets/Moonbeam Peacock.png",
@@ -45693,7 +45693,7 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Peahen",
-        "score": 80,
+        "score": 79,
         "id": 3346
     }, {
         " ": "Golden Dandelion",
@@ -45775,22 +45775,22 @@
         "id": 3352
     }, {
         "image": "/images/pets/Shadow Dragon Ducky.png",
-        "rvalue": 1.75,
-        "nvalue": 11,
-        "mvalue": 50,
+        "rvalue": 1,
+        "nvalue": 5.899999999999999,
+        "mvalue": 24.6,
         "status": "Ready",
-        "rvalue - nopotion": 1.75,
-        "rvalue - ride": 2,
-        "rvalue - fly": 2,
-        "rvalue - fly&ride": 2.35,
-        "nvalue - nopotion": 9.5,
-        "nvalue - ride": 10.25,
-        "nvalue - fly": 10.25,
-        "nvalue - fly&ride": 11,
-        "mvalue - nopotion": 47,
-        "mvalue - ride": 48,
-        "mvalue - fly": 48.9,
-        "mvalue - fly&ride": 50,
+        "rvalue - nopotion": 1,
+        "rvalue - ride": 1.25,
+        "rvalue - fly": 1.25,
+        "rvalue - fly&ride": 1.55,
+        "nvalue - nopotion": 4.8,
+        "nvalue - ride": 5.149999999999999,
+        "nvalue - fly": 5.149999999999999,
+        "nvalue - fly&ride": 5.899999999999999,
+        "mvalue - nopotion": 21.6,
+        "mvalue - ride": 22.6,
+        "mvalue - fly": 23.5,
+        "mvalue - fly&ride": 24.6,
         "fly&ride?": "\"false\"",
         "rarity": "ultra rare",
         "type": "pets",
@@ -45801,26 +45801,26 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Shadow Dragon Ducky",
-        "score": 43,
+        "score": 50,
         "id": 3353
     }, {
         "image": "/images/pets/Unicorn Ducky.png",
-        "rvalue": 0.6,
-        "nvalue": 3.8,
-        "mvalue": 16.2,
+        "rvalue": 0.17,
+        "nvalue": 1.65,
+        "mvalue": 6.75,
         "status": "Ready",
-        "rvalue - nopotion": 0.6,
-        "rvalue - ride": 0.8200000000000001,
-        "rvalue - fly": 0.8200000000000001,
-        "rvalue - fly&ride": 1.1,
-        "nvalue - nopotion": 3.05,
-        "nvalue - ride": 3.43,
-        "nvalue - fly": 3.43,
-        "nvalue - fly&ride": 3.8,
-        "mvalue - nopotion": 13.2,
-        "mvalue - ride": 14.2,
-        "mvalue - fly": 15.1,
-        "mvalue - fly&ride": 16.2,
+        "rvalue - nopotion": 0.17,
+        "rvalue - ride": 0.37,
+        "rvalue - fly": 0.37,
+        "rvalue - fly&ride": 0.62,
+        "nvalue - nopotion": 1.1,
+        "nvalue - ride": 1.38,
+        "nvalue - fly": 1.38,
+        "nvalue - fly&ride": 1.65,
+        "mvalue - nopotion": 4.65,
+        "mvalue - ride": 5.7,
+        "mvalue - fly": 5.7,
+        "mvalue - fly&ride": 6.75,
         "fly&ride?": "\"false\"",
         "rarity": "ultra rare",
         "type": "pets",
@@ -45831,26 +45831,26 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Unicorn Ducky",
-        "score": 71,
+        "score": 156,
         "id": 3354
     }, {
         "image": "/images/pets/Strawberry Shortcake Ducky.png",
-        "rvalue": 5,
-        "nvalue": 24,
-        "mvalue": 105,
+        "rvalue": 1.5,
+        "nvalue": 9,
+        "mvalue": 38,
         "status": "Ready",
-        "rvalue - nopotion": 5,
-        "rvalue - ride": 5.3,
-        "rvalue - fly": 5.3,
-        "rvalue - fly&ride": 5.7,
-        "nvalue - nopotion": 22.25,
-        "nvalue - ride": 23.2,
-        "nvalue - fly": 23.2,
-        "nvalue - fly&ride": 24,
-        "mvalue - nopotion": 102,
-        "mvalue - ride": 103,
-        "mvalue - fly": 103.9,
-        "mvalue - fly&ride": 105,
+        "rvalue - nopotion": 1.5,
+        "rvalue - ride": 1.8,
+        "rvalue - fly": 1.8,
+        "rvalue - fly&ride": 2.2,
+        "nvalue - nopotion": 7.25,
+        "nvalue - ride": 8.2,
+        "nvalue - fly": 8.2,
+        "nvalue - fly&ride": 9,
+        "mvalue - nopotion": 35,
+        "mvalue - ride": 36,
+        "mvalue - fly": 36.9,
+        "mvalue - fly&ride": 38,
         "fly&ride?": "\"false\"",
         "rarity": "legendary",
         "type": "pets",
@@ -45861,26 +45861,26 @@
         "preppybonusn": null,
         "preppybonusm": null,
         "name": "Strawberry Shortcake Ducky",
-        "score": 53,
+        "score": 99,
         "id": 3355
     }, {
         "image": "/images/pets/Glyptodon Ducky.png",
-        "rvalue": 0.17,
-        "nvalue": 1.6,
-        "mvalue": 6.5,
+        "rvalue": 0.05,
+        "nvalue": 1,
+        "mvalue": 3.5,
         "status": "Ready",
-        "rvalue - nopotion": 0.17,
-        "rvalue - ride": 0.37,
-        "rvalue - fly": 0.37,
-        "rvalue - fly&ride": 0.62,
-        "nvalue - nopotion": 1.05,
-        "nvalue - ride": 1.33,
-        "nvalue - fly": 1.33,
-        "nvalue - fly&ride": 1.6,
-        "mvalue - nopotion": 4.5,
-        "mvalue - ride": 5.5,
-        "mvalue - fly": 5.5,
-        "mvalue - fly&ride": 6.5,
+        "rvalue - nopotion": 0.05,
+        "rvalue - ride": 0.25,
+        "rvalue - fly": 0.25,
+        "rvalue - fly&ride": 0.5,
+        "nvalue - nopotion": 0.45,
+        "nvalue - ride": 0.73,
+        "nvalue - fly": 0.73,
+        "nvalue - fly&ride": 1,
+        "mvalue - nopotion": 2,
+        "mvalue - ride": 2.75,
+        "mvalue - fly": 2.75,
+        "mvalue - fly&ride": 3.5,
         "fly&ride?": "\"false\"",
         "rarity": "rare",
         "type": "pets",
@@ -45891,26 +45891,26 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Glyptodon Ducky",
-        "score": 58,
+        "score": 122,
         "id": 3356
     }, {
         "image": "/images/pets/Rubber Ducky.png",
-        "rvalue": 0.05,
-        "nvalue": 0.9,
-        "mvalue": 3,
+        "rvalue": 0.02,
+        "nvalue": 0.7,
+        "mvalue": 2.2,
         "status": "Ready",
-        "rvalue - nopotion": 0.05,
-        "rvalue - ride": 0.25,
-        "rvalue - fly": 0.25,
-        "rvalue - fly&ride": 0.5,
-        "nvalue - nopotion": 0.35,
-        "nvalue - ride": 0.63,
-        "nvalue - fly": 0.63,
-        "nvalue - fly&ride": 0.9,
-        "mvalue - nopotion": 1.5,
-        "mvalue - ride": 2.25,
-        "mvalue - fly": 2.25,
-        "mvalue - fly&ride": 3,
+        "rvalue - nopotion": 0.02,
+        "rvalue - ride": 0.22,
+        "rvalue - fly": 0.22,
+        "rvalue - fly&ride": 0.47,
+        "nvalue - nopotion": 0.1499999999999999,
+        "nvalue - ride": 0.43,
+        "nvalue - fly": 0.43,
+        "nvalue - fly&ride": 0.7,
+        "mvalue - nopotion": 0.7000000000000002,
+        "mvalue - ride": 1.45,
+        "mvalue - fly": 1.45,
+        "mvalue - fly&ride": 2.2,
         "fly&ride?": "\"false\"",
         "rarity": "common",
         "type": "pets",
@@ -45921,16 +45921,46 @@
         "categorypreppyn": null,
         "categorypreppym": null,
         "name": "Rubber Ducky",
-        "score": 35,
+        "score": 45,
         "id": 3357
     }, {
         "image": "/images/pets/Rubber Ducky Box.png",
-        "value": 0.07,
+        "value": 0.05,
         "status": "Ready",
         "rarity": "rare",
         "type": "gifts",
         "name": "Rubber Ducky Box",
-        "score": 43,
+        "score": 47,
         "id": 3358
+    }, {
+        "image": "/images/pets/Dirty Ducky.png",
+        "rvalue": 0.1,
+        "nvalue": 1.15,
+        "mvalue": 4.25,
+        "status": "Ready",
+        "rvalue - nopotion": 0.1,
+        "rvalue - ride": 0.3,
+        "rvalue - fly": 0.3,
+        "rvalue - fly&ride": 0.55,
+        "nvalue - nopotion": 0.5999999999999999,
+        "nvalue - ride": 0.88,
+        "nvalue - fly": 0.88,
+        "nvalue - fly&ride": 1.15,
+        "mvalue - nopotion": 2.6,
+        "mvalue - ride": 3.43,
+        "mvalue - fly": 3.43,
+        "mvalue - fly&ride": 4.25,
+        "fly&ride?": "\"false\"",
+        "rarity": "common",
+        "type": "pets",
+        "categoryd": null,
+        "categoryn": null,
+        "categorym": null,
+        "categorypreppyd": null,
+        "categorypreppyn": null,
+        "categorypreppym": null,
+        "name": "Dirty Ducky",
+        "score": 11,
+        "id": 3359
     }
 ]
